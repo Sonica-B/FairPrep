@@ -1,0 +1,9 @@
+Partition,Group,N,MeanConfidence,MeanAccuracy,CalibrationGap,IsOverconfident,CalibFairFlag
+LinguisticGroup,Native,392,0.771,0.6811,0.0899,True,fair
+LinguisticGroup,Non-Native,88,0.7623,0.6364,0.1259,True,[CALIB-UNFAIR]
+ExpertiseGroup,Non-STEM,144,0.7379,0.6736,0.0643,True,fair
+ExpertiseGroup,STEM,336,0.7829,0.6726,0.1103,True,[CALIB-UNFAIR]
+ExperienceGroup,High-Edu,168,0.815,0.6667,0.1483,True,[CALIB-UNFAIR]
+ExperienceGroup,Lower-Edu,312,0.7449,0.6763,0.0686,True,fair
+AgeGroup,Older-35plus,304,0.7779,0.6678,0.1102,True,[CALIB-UNFAIR]
+AgeGroup,Young-18-34,176,0.7547,0.6818,0.0729,True,fair

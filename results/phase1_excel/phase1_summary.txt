@@ -1,0 +1,23 @@
+Phase 1 (Export_and_Compiled.xlsx) — Summary Report
+=======================================================
+Annotations: 480 | Annotators: 60 | Questions: 8
+
+10-Metric FairEM Assessment (one-sided, threshold=0.10):
+  LinguisticGroup / Native: AP=0.6811(d=+0.0082) TPR=0.6071(d=+0.0196) | FAIR
+  LinguisticGroup / Non-Native: AP=0.6364(d=-0.0366) TPR=0.5000(d=-0.0875) | FAIR
+  ExpertiseGroup / Non-STEM: AP=0.6736(d=+0.0007) TPR=0.5833(d=-0.0042) | FAIR
+  ExpertiseGroup / STEM: AP=0.6726(d=-0.0003) TPR=0.5893(d=+0.0018) | FAIR
+  ExperienceGroup / High-Edu: AP=0.6667(d=-0.0063) TPR=0.5714(d=-0.0161) | FAIR
+  ExperienceGroup / Lower-Edu: AP=0.6763(d=+0.0034) TPR=0.5962(d=+0.0087) | FAIR
+  AgeGroup / Older-35plus: AP=0.6678(d=-0.0052) TPR=0.5987(d=+0.0112) | FAIR
+  AgeGroup / Young-18-34: AP=0.6818(d=+0.0089) TPR=0.5682(d=-0.0193) | FAIR
+
+Calibration Gap (|gap|>0.10 flagged):
+  LinguisticGroup / Native: gap=+0.0899 [fair]
+  LinguisticGroup / Non-Native: gap=+0.1259 [[CALIB-UNFAIR]]
+  ExpertiseGroup / Non-STEM: gap=+0.0643 [fair]
+  ExpertiseGroup / STEM: gap=+0.1103 [[CALIB-UNFAIR]]
+  ExperienceGroup / High-Edu: gap=+0.1483 [[CALIB-UNFAIR]]
+  ExperienceGroup / Lower-Edu: gap=+0.0686 [fair]
+  AgeGroup / Older-35plus: gap=+0.1102 [[CALIB-UNFAIR]]
+  AgeGroup / Young-18-34: gap=+0.0729 [fair]

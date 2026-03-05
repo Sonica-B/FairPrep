@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+.ipynb_checkpoints/
+*.png
+WhatsApp Audio *.mp4
+TRANSFER_INSTRUCTIONS.md
+.claude/settings.local.json
+claude_backup_20260226
+backup_claude_data.sh
+FairPrep/CONVERSATION_EXPORT.md
+fair_entity_matching.zip
+FairPrepApproaches.pdf
+CONVERSATION_EXPORT.md

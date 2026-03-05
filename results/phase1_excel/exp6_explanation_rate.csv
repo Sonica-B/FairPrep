@@ -1,0 +1,9 @@
+Partition,Group,N,N_Explained,ExplanationRate,Acc_WithExplanation,Acc_WithoutExplanation
+LinguisticGroup,Native,392,378,0.9643,0.6825,0.6429
+LinguisticGroup,Non-Native,88,78,0.8864,0.6538,0.5
+ExpertiseGroup,Non-STEM,144,144,1.0,0.6736,
+ExpertiseGroup,STEM,336,312,0.9286,0.6795,0.5833
+ExperienceGroup,High-Edu,168,162,0.9643,0.6605,0.8333
+ExperienceGroup,Lower-Edu,312,294,0.9423,0.6871,0.5
+AgeGroup,Older-35plus,304,296,0.9737,0.6689,0.625
+AgeGroup,Young-18-34,176,160,0.9091,0.6937,0.5625

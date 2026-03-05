@@ -1,0 +1,9 @@
+Partition,Group,N,DisagreesWithMajority,MajDisagreeRate,AnnotatorErrorRate,MajorityErrorRate
+LinguisticGroup,Native,392,132,0.3367,0.3189,0.125
+LinguisticGroup,Non-Native,88,23,0.2614,0.3636,0.125
+ExpertiseGroup,Non-STEM,144,49,0.3403,0.3264,0.125
+ExpertiseGroup,STEM,336,106,0.3155,0.3274,0.125
+ExperienceGroup,High-Edu,168,53,0.3155,0.3333,0.125
+ExperienceGroup,Lower-Edu,312,102,0.3269,0.3237,0.125
+AgeGroup,Older-35plus,304,97,0.3191,0.3322,0.125
+AgeGroup,Young-18-34,176,58,0.3295,0.3182,0.125

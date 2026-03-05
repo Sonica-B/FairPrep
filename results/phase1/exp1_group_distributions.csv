@@ -1,0 +1,7 @@
+Partition,Group,N_Annotators,Pct_Annotators,N_Annotations
+LinguisticGroup,Native,23,39.7,184
+LinguisticGroup,Non-Native,35,60.3,280
+ExpertiseGroup,Non-STEM,7,12.1,56
+ExpertiseGroup,STEM,51,87.9,408
+ExperienceGroup,High-Edu,18,31.0,144
+ExperienceGroup,Lower-Edu,40,69.0,320

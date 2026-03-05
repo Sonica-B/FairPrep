@@ -1,0 +1,8 @@
+Phase 1 Supplemental — Exp 8 + Exp 9 Summary
+==================================================
+
+Exp 8: Conditional Fairness (Hard vs Easy)
+  UNFAIR: Non-Native / LinguisticGroup / Hard (Q2,Q5,Q6): Acc_d=-0.1258 TPR_d=-0.1258
+
+Exp 9: Bootstrap CI (5000 resamples)
+  No statistically significant disparities.

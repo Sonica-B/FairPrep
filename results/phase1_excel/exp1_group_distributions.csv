@@ -1,0 +1,9 @@
+Partition,Group,N_Annotators,Pct_Annotators,N_Annotations
+LinguisticGroup,Native,49,81.7,392
+LinguisticGroup,Non-Native,11,18.3,88
+ExpertiseGroup,Non-STEM,18,30.0,144
+ExpertiseGroup,STEM,42,70.0,336
+ExperienceGroup,High-Edu,21,35.0,168
+ExperienceGroup,Lower-Edu,39,65.0,312
+AgeGroup,Older-35plus,38,63.3,304
+AgeGroup,Young-18-34,22,36.7,176

@@ -1,0 +1,91 @@
+PairID,TableA_Schema,TableB_Schema,IsUnionable,DemographicAttr,CaucasianFraction,AfricanAmericanFraction,DominantGroup,Composition,PerturbationLevel,SchemaMatch,N_Rows_A,N_Rows_B
+0,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']",1,Ethnicity,0.5,0.5,African-American,balanced,low,True,50,50
+1,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Agency_Text', 'Language']",0,Ethnicity,0.5,0.5,African-American,balanced,none,False,50,50
+2,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Ethnic_Code_Text', 'Sex_CodepText', 'MarithalStatus']",1,Ethnicity,0.5,0.5,African-American,balanced,high,False,50,50
+3,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']",1,Ethnicity,0.5,0.5,African-American,balanced,low,True,50,50
+4,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Agency_Text', 'Language']",0,Ethnicity,0.5,0.5,African-American,balanced,none,False,50,50
+5,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullNzame', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MargtalStatus']",1,Ethnicity,0.5,0.5,African-American,balanced,high,False,50,50
+6,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']",1,Ethnicity,0.5,0.5,African-American,balanced,low,True,50,50
+7,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Agency_Text', 'Language']",0,Ethnicity,0.5,0.5,African-American,balanced,none,False,50,50
+8,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Ethnicw_Code_Text', 'Sex_Code_Text', 'MarvitalStatus']",1,Ethnicity,0.5,0.5,African-American,balanced,high,False,50,50
+9,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']",1,Ethnicity,0.5,0.5,African-American,balanced,low,True,50,50
+10,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Agency_Text', 'Language']",0,Ethnicity,0.5,0.5,African-American,balanced,none,False,50,50
+11,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Ethnic_Code_Text', 'Sex_Cmode_Text', 'MarialStatus']",1,Ethnicity,0.5,0.5,African-American,balanced,high,False,50,50
+12,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']",1,Ethnicity,0.5,0.5,African-American,balanced,low,True,50,50
+13,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Agency_Text', 'Language']",0,Ethnicity,0.5,0.5,African-American,balanced,none,False,50,50
+14,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Ethnic_Code_Text', 'Sex_Cobde_Text', 'MaritamStatus']",1,Ethnicity,0.5,0.5,African-American,balanced,high,False,50,50
+15,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']",1,Ethnicity,0.5,0.5,African-American,balanced,low,True,50,50
+16,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Agency_Text', 'Language']",0,Ethnicity,0.5,0.5,African-American,balanced,none,False,50,50
+17,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Ethnic_Ctde_Text', 'Sex_Code_Text', 'MaritalStatu']",1,Ethnicity,0.5,0.5,African-American,balanced,high,False,50,50
+18,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']",1,Ethnicity,0.5,0.5,African-American,balanced,low,True,50,50
+19,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Agency_Text', 'Language']",0,Ethnicity,0.5,0.5,African-American,balanced,none,False,50,50
+20,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FuldName', 'Ethnic_Coe_Text', 'Sex_Code_Text', 'MaritalStatus']",1,Ethnicity,0.5,0.5,African-American,balanced,high,False,50,50
+21,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']",1,Ethnicity,0.5,0.5,African-American,balanced,low,True,50,50
+22,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Agency_Text', 'Language']",0,Ethnicity,0.5,0.5,African-American,balanced,none,False,50,50
+23,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'thnic_Code_Text', 'Sex_Code_Texm', 'MaritalStatus']",1,Ethnicity,0.5,0.5,African-American,balanced,high,False,50,50
+24,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']",1,Ethnicity,0.5,0.5,African-American,balanced,low,True,50,50
+25,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Agency_Text', 'Language']",0,Ethnicity,0.5,0.5,African-American,balanced,none,False,50,50
+26,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['Fullame', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatcs']",1,Ethnicity,0.5,0.5,African-American,balanced,high,False,50,50
+27,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']",1,Ethnicity,0.5,0.5,African-American,balanced,low,True,50,50
+28,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Agency_Text', 'Language']",0,Ethnicity,0.5,0.5,African-American,balanced,none,False,50,50
+29,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullNaze', 'Ethnic_Code_Text', 'Seex_Code_Text', 'MaritalStatus']",1,Ethnicity,0.5,0.5,African-American,balanced,high,False,50,50
+30,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']",1,Ethnicity,0.8,0.2,Caucasian,majority_caucasian,low,True,50,50
+31,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Agency_Text', 'Language']",0,Ethnicity,0.8,0.2,Caucasian,majority_caucasian,none,False,50,50
+32,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullNqame', 'Ethic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']",1,Ethnicity,0.8,0.2,Caucasian,majority_caucasian,high,False,50,50
+33,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']",1,Ethnicity,0.8,0.2,Caucasian,majority_caucasian,low,True,50,50
+34,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Agency_Text', 'Language']",0,Ethnicity,0.8,0.2,Caucasian,majority_caucasian,none,False,50,50
+35,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FulName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritaolStatus']",1,Ethnicity,0.8,0.2,Caucasian,majority_caucasian,high,False,50,50
+36,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']",1,Ethnicity,0.8,0.2,Caucasian,majority_caucasian,low,True,50,50
+37,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Agency_Text', 'Language']",0,Ethnicity,0.8,0.2,Caucasian,majority_caucasian,none,False,50,50
+38,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Ethnic_Code_Tet', 'Sex_Code_Text', 'MaritalStatu']",1,Ethnicity,0.8,0.2,Caucasian,majority_caucasian,high,False,50,50
+39,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']",1,Ethnicity,0.8,0.2,Caucasian,majority_caucasian,low,True,50,50
+40,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Agency_Text', 'Language']",0,Ethnicity,0.8,0.2,Caucasian,majority_caucasian,none,False,50,50
+41,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FutllName', 'Ethnic_Code_Text', 'Sefx_Code_Text', 'MaritalStatus']",1,Ethnicity,0.8,0.2,Caucasian,majority_caucasian,high,False,50,50
+42,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']",1,Ethnicity,0.8,0.2,Caucasian,majority_caucasian,low,True,50,50
+43,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Agency_Text', 'Language']",0,Ethnicity,0.8,0.2,Caucasian,majority_caucasian,none,False,50,50
+44,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FqllName', 'Ethnic_Code_Text', 'Sex_Coe_Text', 'MaritalStatus']",1,Ethnicity,0.8,0.2,Caucasian,majority_caucasian,high,False,50,50
+45,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']",1,Ethnicity,0.8,0.2,Caucasian,majority_caucasian,low,True,50,50
+46,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Agency_Text', 'Language']",0,Ethnicity,0.8,0.2,Caucasian,majority_caucasian,none,False,50,50
+47,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FulyName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritlStatus']",1,Ethnicity,0.8,0.2,Caucasian,majority_caucasian,high,False,50,50
+48,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']",1,Ethnicity,0.8,0.2,Caucasian,majority_caucasian,low,True,50,50
+49,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Agency_Text', 'Language']",0,Ethnicity,0.8,0.2,Caucasian,majority_caucasian,none,False,50,50
+50,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FulName', 'Ethnic_Code_Text', 'Sex_Code_ext', 'MaritalStatus']",1,Ethnicity,0.8,0.2,Caucasian,majority_caucasian,high,False,50,50
+51,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']",1,Ethnicity,0.8,0.2,Caucasian,majority_caucasian,low,True,50,50
+52,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Agency_Text', 'Language']",0,Ethnicity,0.8,0.2,Caucasian,majority_caucasian,none,False,50,50
+53,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['bFullName', 'Ethnic_Code_Text', 'Sex_Code_qext', 'MaritalStatus']",1,Ethnicity,0.8,0.2,Caucasian,majority_caucasian,high,False,50,50
+54,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']",1,Ethnicity,0.8,0.2,Caucasian,majority_caucasian,low,True,50,50
+55,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Agency_Text', 'Language']",0,Ethnicity,0.8,0.2,Caucasian,majority_caucasian,none,False,50,50
+56,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Ethnic_Cobe_Text', 'Sex_Code_Text', 'MaritalStatuzs']",1,Ethnicity,0.8,0.2,Caucasian,majority_caucasian,high,False,50,50
+57,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']",1,Ethnicity,0.8,0.2,Caucasian,majority_caucasian,low,True,50,50
+58,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Agency_Text', 'Language']",0,Ethnicity,0.8,0.2,Caucasian,majority_caucasian,none,False,50,50
+59,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Ethnic_Coe_Text', 'Sex_Code_Text', 'MaritavStatus']",1,Ethnicity,0.8,0.2,Caucasian,majority_caucasian,high,False,50,50
+60,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']",1,Ethnicity,0.2,0.8,African-American,majority_aa,low,True,50,50
+61,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Agency_Text', 'Language']",0,Ethnicity,0.2,0.8,African-American,majority_aa,none,False,50,50
+62,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FulxlName', 'Ethnic_Codee_Text', 'Sex_Code_Text', 'MaritalStatus']",1,Ethnicity,0.2,0.8,African-American,majority_aa,high,False,50,50
+63,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']",1,Ethnicity,0.2,0.8,African-American,majority_aa,low,True,50,50
+64,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Agency_Text', 'Language']",0,Ethnicity,0.2,0.8,African-American,majority_aa,none,False,50,50
+65,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Ethnic_Coide_Text', 'Sex_Code_Text', 'MaritalStaus']",1,Ethnicity,0.2,0.8,African-American,majority_aa,high,False,50,50
+66,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']",1,Ethnicity,0.2,0.8,African-American,majority_aa,low,True,50,50
+67,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Agency_Text', 'Language']",0,Ethnicity,0.2,0.8,African-American,majority_aa,none,False,50,50
+68,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'wthnic_Code_Text', 'Sex_Code_Text', 'Maritaltatus']",1,Ethnicity,0.2,0.8,African-American,majority_aa,high,False,50,50
+69,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']",1,Ethnicity,0.2,0.8,African-American,majority_aa,low,True,50,50
+70,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Agency_Text', 'Language']",0,Ethnicity,0.2,0.8,African-American,majority_aa,none,False,50,50
+71,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Ethni_Code_Text', 'Sex_Coe_Text', 'MaritalStatus']",1,Ethnicity,0.2,0.8,African-American,majority_aa,high,False,50,50
+72,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']",1,Ethnicity,0.2,0.8,African-American,majority_aa,low,True,50,50
+73,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Agency_Text', 'Language']",0,Ethnicity,0.2,0.8,African-American,majority_aa,none,False,50,50
+74,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Ethnic_Code_oText', 'Sex_Code_Text', 'MaritalSttus']",1,Ethnicity,0.2,0.8,African-American,majority_aa,high,False,50,50
+75,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']",1,Ethnicity,0.2,0.8,African-American,majority_aa,low,True,50,50
+76,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Agency_Text', 'Language']",0,Ethnicity,0.2,0.8,African-American,majority_aa,none,False,50,50
+77,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Ethnic_Code_Texj', 'Sek_Code_Text', 'MaritalStatus']",1,Ethnicity,0.2,0.8,African-American,majority_aa,high,False,50,50
+78,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']",1,Ethnicity,0.2,0.8,African-American,majority_aa,low,True,50,50
+79,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Agency_Text', 'Language']",0,Ethnicity,0.2,0.8,African-American,majority_aa,none,False,50,50
+80,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullNamu', 'Ethnic_Code_Text', 'Sex_Code_Tet', 'MaritalStatus']",1,Ethnicity,0.2,0.8,African-American,majority_aa,high,False,50,50
+81,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']",1,Ethnicity,0.2,0.8,African-American,majority_aa,low,True,50,50
+82,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Agency_Text', 'Language']",0,Ethnicity,0.2,0.8,African-American,majority_aa,none,False,50,50
+83,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Ethnic_Coude_Text', 'Sex_Code_Texz', 'MaritalStatus']",1,Ethnicity,0.2,0.8,African-American,majority_aa,high,False,50,50
+84,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']",1,Ethnicity,0.2,0.8,African-American,majority_aa,low,True,50,50
+85,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Agency_Text', 'Language']",0,Ethnicity,0.2,0.8,African-American,majority_aa,none,False,50,50
+86,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FulbName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritmalStatus']",1,Ethnicity,0.2,0.8,African-American,majority_aa,high,False,50,50
+87,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']",1,Ethnicity,0.2,0.8,African-American,majority_aa,low,True,50,50
+88,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FullName', 'Agency_Text', 'Language']",0,Ethnicity,0.2,0.8,African-American,majority_aa,none,False,50,50
+89,"['FullName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MaritalStatus']","['FucllName', 'Ethnic_Code_Text', 'Sex_Code_Text', 'MartalStatus']",1,Ethnicity,0.2,0.8,African-American,majority_aa,high,False,50,50

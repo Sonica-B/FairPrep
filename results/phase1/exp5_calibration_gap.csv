@@ -1,0 +1,7 @@
+Partition,Group,N,MeanConfidence,MeanAccuracy,CalibrationGap,IsOverconfident
+LinguisticGroup,Native,184,0.7387,0.6304,0.1083,True
+LinguisticGroup,Non-Native,280,0.7858,0.6036,0.1822,True
+ExpertiseGroup,Non-STEM,56,0.7761,0.6607,0.1154,True
+ExpertiseGroup,STEM,408,0.7659,0.6078,0.1581,True
+ExperienceGroup,High-Edu,144,0.7997,0.5903,0.2094,True
+ExperienceGroup,Lower-Edu,320,0.7525,0.625,0.1275,True

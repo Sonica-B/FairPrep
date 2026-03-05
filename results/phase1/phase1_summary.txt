@@ -1,0 +1,11 @@
+Phase 1: Demographic Partitioning - Summary Report
+==================================================
+Total annotations analyzed: 232
+
+Fairness Assessment (threshold = 0.1):
+  LinguisticGroup / Native: Acc=0.6304 (d=+0.0162) [FAIR]
+  LinguisticGroup / Non-Native: Acc=0.6036 (d=-0.0107) [FAIR]
+  ExpertiseGroup / Non-STEM: Acc=0.6607 (d=+0.0465) [FAIR]
+  ExpertiseGroup / STEM: Acc=0.6078 (d=-0.0064) [FAIR]
+  ExperienceGroup / High-Edu: Acc=0.5903 (d=-0.0239) [FAIR]
+  ExperienceGroup / Lower-Edu: Acc=0.6250 (d=+0.0108) [FAIR]

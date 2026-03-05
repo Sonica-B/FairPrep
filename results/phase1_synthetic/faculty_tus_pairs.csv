@@ -1,0 +1,91 @@
+PairID,TableA_Schema,TableB_Schema,IsUnionable,DemographicAttr,MaleFraction,FemaleFraction,DominantGroup,PerturbationLevel,SchemaMatch,N_Rows_A,N_Rows_B
+0,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'institution', 'region', 'countryabbrv', 'Gender']",1,Gender,0.65,0.05,male,low,True,20,20
+1,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'homepage', 'scholarid']",0,Gender,0.65,0.05,male,none,False,20,20
+2,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['naue', 'institution', 'region', 'countyabbrv', 'Gender']",1,Gender,0.65,0.05,male,high,False,20,20
+3,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'institution', 'region', 'countryabbrv', 'Gender']",1,Gender,0.5,0.075,male,low,True,20,20
+4,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'homepage', 'scholarid']",0,Gender,0.5,0.075,male,none,False,20,20
+5,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'insttution', 'regior', 'countryabbrv', 'Gender']",1,Gender,0.5,0.075,male,high,False,20,20
+6,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'institution', 'region', 'countryabbrv', 'Gender']",1,Gender,0.45,0.05,male,low,True,20,20
+7,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'homepage', 'scholarid']",0,Gender,0.45,0.05,male,none,False,20,20
+8,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'institutyon', 'region', 'countryabbrv', 'Geyder']",1,Gender,0.45,0.05,male,high,False,20,20
+9,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'institution', 'region', 'countryabbrv', 'Gender']",1,Gender,0.525,0.075,male,low,True,20,20
+10,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'homepage', 'scholarid']",0,Gender,0.525,0.075,male,none,False,20,20
+11,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['kame', 'instituthon', 'region', 'countryabbrv', 'Gender']",1,Gender,0.525,0.075,male,high,False,20,20
+12,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'institution', 'region', 'countryabbrv', 'Gender']",1,Gender,0.55,0.075,male,low,True,20,20
+13,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'homepage', 'scholarid']",0,Gender,0.55,0.075,male,none,False,20,20
+14,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'inmtitution', 'region', 'countriabbrv', 'Gender']",1,Gender,0.55,0.075,male,high,False,20,20
+15,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'institution', 'region', 'countryabbrv', 'Gender']",1,Gender,0.425,0.15,male,low,True,20,20
+16,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'homepage', 'scholarid']",0,Gender,0.425,0.15,male,none,False,20,20
+17,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'institution', 'aregion', 'countryabsbrv', 'Gender']",1,Gender,0.425,0.15,male,high,False,20,20
+18,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'institution', 'region', 'countryabbrv', 'Gender']",1,Gender,0.475,0.2,male,low,True,20,20
+19,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'homepage', 'scholarid']",0,Gender,0.475,0.2,male,none,False,20,20
+20,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'instittion', 'regon', 'countryabbrv', 'Gender']",1,Gender,0.475,0.2,male,high,False,20,20
+21,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'institution', 'region', 'countryabbrv', 'Gender']",1,Gender,0.45,0.175,male,low,True,20,20
+22,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'homepage', 'scholarid']",0,Gender,0.45,0.175,male,none,False,20,20
+23,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'institutiog', 'region', 'countryabbrv', 'Geinder']",1,Gender,0.45,0.175,male,high,False,20,20
+24,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'institution', 'region', 'countryabbrv', 'Gender']",1,Gender,0.6,0.175,male,low,True,20,20
+25,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'homepage', 'scholarid']",0,Gender,0.6,0.175,male,none,False,20,20
+26,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'institution', 'rgion', 'countryabbrjv', 'Gender']",1,Gender,0.6,0.175,male,high,False,20,20
+27,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'institution', 'region', 'countryabbrv', 'Gender']",1,Gender,0.425,0.15,male,low,True,20,20
+28,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'homepage', 'scholarid']",0,Gender,0.425,0.15,male,none,False,20,20
+29,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['nwame', 'institution', 'region', 'countrabbrv', 'Gender']",1,Gender,0.425,0.15,male,high,False,20,20
+30,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'institution', 'region', 'countryabbrv', 'Gender']",1,Gender,0.6,0.1,male,low,True,20,20
+31,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'homepage', 'scholarid']",0,Gender,0.6,0.1,male,none,False,20,20
+32,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['nmme', 'intitution', 'region', 'countryabbrv', 'Gender']",1,Gender,0.6,0.1,male,high,False,20,20
+33,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'institution', 'region', 'countryabbrv', 'Gender']",1,Gender,0.475,0.1,male,low,True,20,20
+34,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'homepage', 'scholarid']",0,Gender,0.475,0.1,male,none,False,20,20
+35,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['nam', 'institution', 'region', 'countryabbrv', 'Genfer']",1,Gender,0.475,0.1,male,high,False,20,20
+36,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'institution', 'region', 'countryabbrv', 'Gender']",1,Gender,0.45,0.15,male,low,True,20,20
+37,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'homepage', 'scholarid']",0,Gender,0.45,0.15,male,none,False,20,20
+38,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['wame', 'institutio', 'region', 'countryabbrv', 'Gender']",1,Gender,0.45,0.15,male,high,False,20,20
+39,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'institution', 'region', 'countryabbrv', 'Gender']",1,Gender,0.425,0.225,male,low,True,20,20
+40,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'homepage', 'scholarid']",0,Gender,0.425,0.225,male,none,False,20,20
+41,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'instiitution', 'regio', 'countryabbrv', 'Gender']",1,Gender,0.425,0.225,male,high,False,20,20
+42,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'institution', 'region', 'countryabbrv', 'Gender']",1,Gender,0.475,0.1,male,low,True,20,20
+43,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'homepage', 'scholarid']",0,Gender,0.475,0.1,male,none,False,20,20
+44,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'institution', 'regin', 'countryabrv', 'Gender']",1,Gender,0.475,0.1,male,high,False,20,20
+45,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'institution', 'region', 'countryabbrv', 'Gender']",1,Gender,0.55,0.05,male,low,True,20,20
+46,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'homepage', 'scholarid']",0,Gender,0.55,0.05,male,none,False,20,20
+47,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'institujtion', 'region', 'countrabbrv', 'Gender']",1,Gender,0.55,0.05,male,high,False,20,20
+48,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'institution', 'region', 'countryabbrv', 'Gender']",1,Gender,0.65,0.1,male,low,True,20,20
+49,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'homepage', 'scholarid']",0,Gender,0.65,0.1,male,none,False,20,20
+50,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['nate', 'institution', 'region', 'countryabbrv', 'Gendr']",1,Gender,0.65,0.1,male,high,False,20,20
+51,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'institution', 'region', 'countryabbrv', 'Gender']",1,Gender,0.575,0.2,male,low,True,20,20
+52,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'homepage', 'scholarid']",0,Gender,0.575,0.2,male,none,False,20,20
+53,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'institution', 'egion', 'ckountryabbrv', 'Gender']",1,Gender,0.575,0.2,male,high,False,20,20
+54,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'institution', 'region', 'countryabbrv', 'Gender']",1,Gender,0.6,0.1,male,low,True,20,20
+55,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'homepage', 'scholarid']",0,Gender,0.6,0.1,male,none,False,20,20
+56,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'insttitution', 'region', 'countryaebbrv', 'Gender']",1,Gender,0.6,0.1,male,high,False,20,20
+57,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'institution', 'region', 'countryabbrv', 'Gender']",1,Gender,0.475,0.1,male,low,True,20,20
+58,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'homepage', 'scholarid']",0,Gender,0.475,0.1,male,none,False,20,20
+59,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['xname', 'institution', 'qregion', 'countryabbrv', 'Gender']",1,Gender,0.475,0.1,male,high,False,20,20
+60,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'institution', 'region', 'countryabbrv', 'Gender']",1,Gender,0.6,0.125,male,low,True,20,20
+61,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'homepage', 'scholarid']",0,Gender,0.6,0.125,male,none,False,20,20
+62,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['nme', 'institution', 'region', 'countryabebrv', 'Gender']",1,Gender,0.6,0.125,male,high,False,20,20
+63,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'institution', 'region', 'countryabbrv', 'Gender']",1,Gender,0.5,0.15,male,low,True,20,20
+64,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'homepage', 'scholarid']",0,Gender,0.5,0.15,male,none,False,20,20
+65,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'institutio', 'rgion', 'countryabbrv', 'Gender']",1,Gender,0.5,0.15,male,high,False,20,20
+66,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'institution', 'region', 'countryabbrv', 'Gender']",1,Gender,0.475,0.15,male,low,True,20,20
+67,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'homepage', 'scholarid']",0,Gender,0.475,0.15,male,none,False,20,20
+68,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'institution', 'reion', 'countryabbhv', 'Gender']",1,Gender,0.475,0.15,male,high,False,20,20
+69,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'institution', 'region', 'countryabbrv', 'Gender']",1,Gender,0.55,0.125,male,low,True,20,20
+70,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'homepage', 'scholarid']",0,Gender,0.55,0.125,male,none,False,20,20
+71,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'insitution', 'regcon', 'countryabbrv', 'Gender']",1,Gender,0.55,0.125,male,high,False,20,20
+72,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'institution', 'region', 'countryabbrv', 'Gender']",1,Gender,0.6,0.1,male,low,True,20,20
+73,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'homepage', 'scholarid']",0,Gender,0.6,0.1,male,none,False,20,20
+74,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['nme', 'institution', 'region', 'ountryabbrv', 'Gender']",1,Gender,0.6,0.1,male,high,False,20,20
+75,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'institution', 'region', 'countryabbrv', 'Gender']",1,Gender,0.425,0.175,male,low,True,20,20
+76,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'homepage', 'scholarid']",0,Gender,0.425,0.175,male,none,False,20,20
+77,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['xname', 'institution', 'region', 'countryabbrv', 'Geder']",1,Gender,0.425,0.175,male,high,False,20,20
+78,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'institution', 'region', 'countryabbrv', 'Gender']",1,Gender,0.65,0.0,male,low,True,20,20
+79,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'homepage', 'scholarid']",0,Gender,0.65,0.0,male,none,False,20,20
+80,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'institution', 'region', 'countryabbrv', 'Gende']",1,Gender,0.65,0.0,male,high,False,20,20
+81,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'institution', 'region', 'countryabbrv', 'Gender']",1,Gender,0.45,0.075,male,low,True,20,20
+82,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'homepage', 'scholarid']",0,Gender,0.45,0.075,male,none,False,20,20
+83,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'inytitution', 'rekgion', 'countryabbrv', 'Gender']",1,Gender,0.45,0.075,male,high,False,20,20
+84,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'institution', 'region', 'countryabbrv', 'Gender']",1,Gender,0.5,0.15,male,low,True,20,20
+85,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'homepage', 'scholarid']",0,Gender,0.5,0.15,male,none,False,20,20
+86,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['nyme', 'institutio', 'region', 'countryabbrv', 'Gender']",1,Gender,0.5,0.15,male,high,False,20,20
+87,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'institution', 'region', 'countryabbrv', 'Gender']",1,Gender,0.5,0.2,male,low,True,20,20
+88,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['name', 'homepage', 'scholarid']",0,Gender,0.5,0.2,male,none,False,20,20
+89,"['name', 'institution', 'region', 'countryabbrv', 'Gender']","['nate', 'institution', 'region', 'countryabubrv', 'Gender']",1,Gender,0.5,0.2,male,high,False,20,20

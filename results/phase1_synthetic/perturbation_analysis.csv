@@ -1,0 +1,13 @@
+Source,PerturbationLevel,Group,N,Accuracy,TPR
+Synthetic-Faculty,high,Native,360,0.625,0.625
+Synthetic-Faculty,high,Non-Native,540,0.4981,0.4981
+Synthetic-Faculty,low,Native,360,0.8667,0.8667
+Synthetic-Faculty,low,Non-Native,540,0.7815,0.7815
+Synthetic-Faculty,none,Native,360,0.8944,1.0
+Synthetic-Faculty,none,Non-Native,540,0.8611,1.0
+Synthetic-Compas,high,Native,360,0.6056,0.6056
+Synthetic-Compas,high,Non-Native,540,0.5278,0.5278
+Synthetic-Compas,low,Native,360,0.8917,0.8917
+Synthetic-Compas,low,Non-Native,540,0.7778,0.7778
+Synthetic-Compas,none,Native,360,0.8806,1.0
+Synthetic-Compas,none,Non-Native,540,0.8278,1.0
