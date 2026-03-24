@@ -1,0 +1,21 @@
+Technique,Category,Detects_Active,Small_Sample,Data_Fit,Complexity,Phase,Status
+FairEM (10-metric disparity),Statistical Fairness,0.3,0.6,1.0,0.3,Detection,Implemented
+Intersectional Fairness,Statistical Fairness,0.5,0.3,1.0,0.4,Detection,Implemented
+Calibration Gap Analysis,Statistical Fairness,0.4,0.5,1.0,0.2,Detection,Implemented
+Logistic Regression Decomposition,Regression,0.7,0.5,1.0,0.4,Root Cause,Implemented
+Leave-One-Out Influence,Individual Analysis,0.8,0.8,1.0,0.5,Root Cause,Implemented
+Ablation Study,Experimental,0.6,0.4,1.0,0.4,Root Cause,Implemented
+Chi-Square / Cramer's V,Statistical Tests,0.3,0.4,1.0,0.2,Detection,Implemented
+Bootstrap Confidence Intervals,Statistical Tests,0.3,0.7,1.0,0.3,Validation,Implemented
+Dawid-Skene Model,Annotator Modeling,0.6,0.5,0.9,0.6,Root Cause,Recommended
+MACE (Multi-Annotator CE),Annotator Modeling,0.7,0.5,0.9,0.6,Root Cause,Recommended
+Item Response Theory (IRT),Psychometrics,0.8,0.4,0.95,0.7,Root Cause,Recommended
+Blinder-Oaxaca Decomposition,Regression,0.9,0.4,0.85,0.6,Root Cause,Recommended
+Causal Fairness (DAG-based),Causal Inference,1.0,0.3,0.7,0.9,Root Cause,Future
+CrowdTruth Framework,Annotator Modeling,0.5,0.6,0.8,0.5,Detection,Recommended
+Fair Truth Discovery (Li et al.),Fair Aggregation,0.6,0.5,0.9,0.6,Mitigation,Future
+DEM-MoE (Xu et al.),Fair Aggregation,0.7,0.3,0.6,0.9,Mitigation,Future
+Behavioral Gatekeeper (RF/GB),Behavioral Analysis,0.7,0.3,1.0,0.5,Detection,Scaffolded
+Explanation NLP Analysis,Qualitative,0.6,0.7,0.95,0.7,Root Cause,Future
+Permutation Fairness Test,Statistical Tests,0.4,0.8,1.0,0.3,Validation,Recommended
+AIF360 / Fairlearn Toolkit,Statistical Fairness,0.4,0.5,0.8,0.3,Detection,Recommended

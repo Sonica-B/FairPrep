@@ -1,0 +1,5 @@
+Partition,Classification,Active_Score,Active_Evidence,Passive_Evidence
+LinguisticGroup,STRONGLY ACTIVE,4/6,A1: 12 unfair intersections | A2: 6 high-influence annotators | A3: 5 active ablation effects | A6: 1 ACTIVE + 3 BORDERLINE (moderate),A4: Chi2 not significant (p=0.4946) | A5: regression coef=+0.075 (weak)
+ExpertiseGroup,MODERATELY ACTIVE,2/6,A2: 7 high-influence annotators | A3: 4 active ablation effects,"A1: only 2 unfair intersections | A4: Chi2 not significant (p=1.0) | A5: regression coef=+0.006 (weak) | A6: 0 active, 0 borderline cells"
+ExperienceGroup,ACTIVE,3/6,A1: 6 unfair intersections | A2: 7 high-influence annotators | A3: 3 active ablation effects,"A4: Chi2 not significant (p=0.9107) | A5: regression coef=-0.077 (weak) | A6: 0 active, 1 borderline cells"
+AgeGroup,ACTIVE,3/6,A1: 4 unfair intersections | A2: 9 high-influence annotators | A3: 2 active ablation effects,"A4: Chi2 not significant (p=0.8295) | A5: regression coef=-0.052 (weak) | A6: 0 active, 1 borderline cells"

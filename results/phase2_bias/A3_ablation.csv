@@ -1,0 +1,13 @@
+Balanced_Partition,Measured_Partition,Baseline_MaxDisp,After_MaxDisp,Change,Interpretation
+LinguisticGroup,ExpertiseGroup,0.0042,0.0544,0.0503,ACTIVE (correlated)
+LinguisticGroup,ExperienceGroup,0.0161,0.1166,0.1005,ACTIVE (correlated)
+LinguisticGroup,AgeGroup,0.0215,0.0463,0.0248,ACTIVE (correlated)
+ExpertiseGroup,LinguisticGroup,0.0875,0.0396,-0.0479,ACTIVE (correlated)
+ExpertiseGroup,ExperienceGroup,0.0161,0.062,0.0459,ACTIVE (correlated)
+ExpertiseGroup,AgeGroup,0.0215,0.0178,-0.0037,PASSIVE (independent)
+ExperienceGroup,LinguisticGroup,0.0875,0.0666,-0.0209,ACTIVE (correlated)
+ExperienceGroup,ExpertiseGroup,0.0042,0.0162,0.012,PASSIVE (independent)
+ExperienceGroup,AgeGroup,0.0215,0.0173,-0.0042,PASSIVE (independent)
+AgeGroup,LinguisticGroup,0.0875,0.0914,0.0039,PASSIVE (independent)
+AgeGroup,ExpertiseGroup,0.0042,0.0508,0.0467,ACTIVE (correlated)
+AgeGroup,ExperienceGroup,0.0161,0.0118,-0.0043,PASSIVE (independent)
