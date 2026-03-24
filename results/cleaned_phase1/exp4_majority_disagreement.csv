@@ -1,0 +1,9 @@
+Partition,Group,N,DisagreementRate
+LinguisticGroup,Native,342,0.2865
+LinguisticGroup,Non-Native,85,0.3529
+ExpertiseGroup,Non-STEM,136,0.3015
+ExpertiseGroup,STEM,291,0.299
+ExperienceGroup,High-Edu,154,0.3312
+ExperienceGroup,Lower-Edu,273,0.2821
+AgeGroup,Older-35plus,265,0.2981
+AgeGroup,Young-18-34,162,0.3025

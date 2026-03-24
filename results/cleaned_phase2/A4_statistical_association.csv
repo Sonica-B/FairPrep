@@ -1,0 +1,15 @@
+Test,Variable,Chi2,p_value,Cramers_V,Significant
+Chi2_vs_Accuracy,LinguisticGroup,1.1308,0.2876,0.0515,False
+Chi2_vs_Accuracy,ExpertiseGroup,0.0,1.0,0.0,False
+Chi2_vs_Accuracy,ExperienceGroup,0.9097,0.3402,0.0462,False
+Chi2_vs_Accuracy,AgeGroup,0.0,1.0,0.0,False
+Chi2_Pairwise,LinguisticGroup x ExpertiseGroup,0.4479,0.5033,0.0324,False
+Chi2_Pairwise,LinguisticGroup x ExperienceGroup,2.4139,0.1203,0.0752,False
+Chi2_Pairwise,LinguisticGroup x AgeGroup,1.1278,0.2883,0.0514,False
+Chi2_Pairwise,ExpertiseGroup x ExperienceGroup,1.9471,0.1629,0.0675,False
+Chi2_Pairwise,ExpertiseGroup x AgeGroup,18.1518,0.0,0.2062,True
+Chi2_Pairwise,ExperienceGroup x AgeGroup,6.2882,0.0122,0.1214,True
+Spearman,Age,-0.0185,0.7023,0.0185,False
+Spearman,Education,-0.0376,0.4388,0.0376,False
+Spearman,EngProf,0.0582,0.2302,0.0582,False
+Spearman,Major,0.0025,0.9582,0.0025,False

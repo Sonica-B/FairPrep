@@ -1,0 +1,9 @@
+Partition,Group,N,Obs_AccDisparity,Acc_CI_lo,Acc_CI_hi,Acc_Significant
+LinguisticGroup,Native,342,0.0132,-0.0517,0.0758,False
+LinguisticGroup,Non-Native,85,-0.0532,-0.1615,0.055,False
+ExpertiseGroup,Non-STEM,136,-0.0017,-0.0903,0.0852,False
+ExpertiseGroup,STEM,291,0.0008,-0.0688,0.0693,False
+ExperienceGroup,High-Edu,154,-0.0314,-0.1174,0.0546,False
+ExperienceGroup,Lower-Edu,273,0.0177,-0.052,0.0861,False
+AgeGroup,Older-35plus,265,0.0017,-0.067,0.0723,False
+AgeGroup,Young-18-34,162,-0.0027,-0.0883,0.0786,False

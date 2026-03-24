@@ -1,0 +1,6 @@
+step,method,rows_flagged,annotators_affected,annotator_ids
+DecisionTime outlier removal,IQR x3.0 (upper=205.44s),17,12,
+Speed-clicker removal,DecisionTime < 3.0s AND ClickCount <= 1,4,2,
+Low-accuracy annotator removal,Overall accuracy <= 0.25,16,2,"['R_10DjrnWcsynfiIE', 'R_6JTCAD3a89J5Ba9']"
+Straightliner removal,Same answer to all 8 questions,16,2,"['R_3YfVkKSocJtdKtW', 'R_6yDPYhkjfNLps3v']"
+Confidence capping,"Clipped to [5, 95]",88,0,

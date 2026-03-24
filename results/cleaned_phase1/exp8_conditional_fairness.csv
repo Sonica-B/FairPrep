@@ -1,0 +1,17 @@
+Tier,Partition,Group,N,Accuracy,TPR,Accuracy_Disparity,TPR_Disparity,UNFAIR_ACC,UNFAIR_TPR
+Hard,LinguisticGroup,Native,128,0.6406,0.6406,0.0406,0.0406,False,False
+Hard,LinguisticGroup,Non-Native,32,0.4375,0.4375,-0.1625,-0.1625,True,True
+Hard,ExpertiseGroup,Non-STEM,51,0.5686,0.5686,-0.0314,-0.0314,False,False
+Hard,ExpertiseGroup,STEM,109,0.6147,0.6147,0.0147,0.0147,False,False
+Hard,ExperienceGroup,High-Edu,58,0.569,0.569,-0.031,-0.031,False,False
+Hard,ExperienceGroup,Lower-Edu,102,0.6176,0.6176,0.0176,0.0176,False,False
+Hard,AgeGroup,Older-35plus,99,0.6061,0.6061,0.0061,0.0061,False,False
+Hard,AgeGroup,Young-18-34,61,0.5902,0.5902,-0.0098,-0.0098,False,False
+Easy,LinguisticGroup,Native,214,0.757,0.7143,-0.0033,-0.0027,False,False
+Easy,LinguisticGroup,Non-Native,53,0.7736,0.7273,0.0133,0.0103,False,False
+Easy,ExpertiseGroup,Non-STEM,85,0.7765,0.7059,0.0162,-0.0111,False,False
+Easy,ExpertiseGroup,STEM,182,0.7527,0.7222,-0.0076,0.0052,False,False
+Easy,ExperienceGroup,High-Edu,96,0.7292,0.6667,-0.0311,-0.0503,False,False
+Easy,ExperienceGroup,Lower-Edu,171,0.7778,0.7429,0.0175,0.0259,False,False
+Easy,AgeGroup,Older-35plus,166,0.759,0.7576,-0.0013,0.0406,False,False
+Easy,AgeGroup,Young-18-34,101,0.7624,0.65,0.0021,-0.067,False,False
