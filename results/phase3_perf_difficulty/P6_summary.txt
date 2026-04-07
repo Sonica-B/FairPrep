@@ -1,0 +1,14 @@
+Phase 3: Performance-Based Difficulty Re-Analysis Summary
+=======================================================
+Data: 427 rows, 56 annotators (cleaned)
+Difficulty: Nina's performance-based (per Version x Question)
+Hard rows: 132 (30.9%) vs old 160 (37.5%)
+
+Key findings:
+  UNFAIR: [Hard] Non-Native Acc_d=-0.1894
+  UNFAIR: [Medium] Non-Native Acc_d=+0.1000
+  UNFAIR: [Easy] Non-Native Acc_d=-0.0516
+
+Non-Native UNFAIR in 3/4 versions
+
+Top regression feature: IsHard_Perf (coef=-2.1811)
