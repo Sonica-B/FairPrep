@@ -1,0 +1,13 @@
+Group,Tier,Correct,N,MeanLen,MedianLen,StdLen
+Non-Native,Hard,False,21,60.4,49.0,41.8
+Non-Native,Hard,True,7,66.3,50.0,34.5
+Non-Native,Medium,False,5,105.6,95.0,27.8
+Non-Native,Medium,True,25,56.0,55.0,31.3
+Non-Native,Easy,False,4,98.2,96.5,24.8
+Non-Native,Easy,True,23,69.9,66.0,38.8
+Native,Hard,False,53,88.4,65.0,67.2
+Native,Hard,True,51,90.1,66.0,74.5
+Native,Medium,False,35,106.9,86.0,74.5
+Native,Medium,True,85,91.5,79.0,70.1
+Native,Easy,False,10,79.9,67.0,48.5
+Native,Easy,True,108,95.7,75.5,77.8

@@ -1,0 +1,13 @@
+Group,Tier,Correct,N,MeanTime,MedianTime,MeanClicks,MeanConf
+Non-Native,Hard,False,21,52.6,35.6,1.71,0.691
+Non-Native,Hard,True,7,47.6,32.3,1.29,0.783
+Non-Native,Medium,False,5,58.5,54.8,2.0,0.756
+Non-Native,Medium,True,25,37.9,36.5,1.24,0.846
+Non-Native,Easy,False,4,45.1,38.5,1.25,0.742
+Non-Native,Easy,True,23,39.2,28.5,1.83,0.709
+Native,Hard,False,53,46.2,43.3,1.64,0.774
+Native,Hard,True,51,48.9,33.1,2.22,0.754
+Native,Medium,False,35,54.0,48.2,2.26,0.709
+Native,Medium,True,85,47.5,35.2,2.05,0.795
+Native,Easy,False,10,32.1,29.6,2.1,0.583
+Native,Easy,True,108,46.1,35.0,2.36,0.757

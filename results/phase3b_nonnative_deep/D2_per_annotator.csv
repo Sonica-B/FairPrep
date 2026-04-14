@@ -1,0 +1,12 @@
+Annotator,Version,Age,Edu,EngProf,Major,AgeGroup,EduGroup,STEMGroup,Overall_Acc,Hard_Acc,Med_Acc,Easy_Acc,Yes_Rate,Hard_Yes_Rate,Avg_Confidence,Avg_DecTime,Avg_ExplLen
+R_148Une4PLmGcBSu,4,25 - 34,Master's degree,Fluent,business management,Young-18-34,High-Edu,Non-STEM,0.5,0.5,0.5,0.5,0.75,0.5,0.696,78.7,112.0
+R_1OQeNzGuwXs2LH8,4,55 & above,Bachelor's degree,Fluent,Biology,Older-35plus,Lower-Edu,STEM,0.625,0.0,0.5,1.0,0.375,0.0,0.581,37.4,58.0
+R_1XKyoEvhN6kaim5,2,55 & above,Bachelor's degree,Fluent,Physics,Older-35plus,Lower-Edu,STEM,0.875,0.5,1.0,1.0,0.375,0.0,0.857,22.7,67.0
+R_1bGbWw17zMVhYCB,1,55 & above,Bachelor's degree,Fluent,biology,Older-35plus,Lower-Edu,STEM,0.75,0.5,1.0,1.0,0.25,0.25,0.571,43.8,41.0
+R_3HNE4ounG42cAsU,2,55 & above,Bachelor's degree,Fluent,EE,Older-35plus,Lower-Edu,STEM,0.625,0.0,1.0,0.5,0.375,0.5,0.889,88.3,84.0
+R_3z8ZE7YREYI8Gw1,1,45 - 54,Doctoral degree,Proficient,genetics,Older-35plus,High-Edu,STEM,0.625,0.5,0.5,1.0,0.125,0.25,0.894,59.9,72.0
+R_525TuR4Dp394srD,3,18 - 24,Bachelor's degree,Fluent,finance,Young-18-34,Lower-Edu,Non-STEM,0.75,0.0,1.0,1.0,0.25,0.0,0.859,34.4,51.0
+R_5OUQ1pZujFEDzvR,3,45 - 54,Doctoral degree,Fluent,Biology,Older-35plus,High-Edu,STEM,0.625,0.5,0.667,0.667,0.625,0.5,0.903,18.8,62.0
+R_5mtm6C4nrekY8PA,2,25 - 34,Bachelor's degree,Fluent,IT Manager,Young-18-34,Lower-Edu,STEM,0.6,0.0,1.0,,0.6,0.5,0.7,6.7,7.0
+R_6uU8R5ES6qffxM5,3,25 - 34,Bachelor's degree,Fluent,Mathematics,Young-18-34,Lower-Edu,STEM,0.625,0.0,0.667,1.0,0.125,0.0,0.65,43.1,113.0
+R_7R851lYr569cm4U,1,25 - 34,Bachelor's degree,Fluent,accounting,Young-18-34,Lower-Edu,Non-STEM,0.5,0.0,1.0,1.0,0.25,0.25,0.688,38.7,43.0
