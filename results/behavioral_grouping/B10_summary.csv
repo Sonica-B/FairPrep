@@ -1,0 +1,12 @@
+Type,Partition,Max_AP_d,Worst_Group_AP,Max_TPR_d,Worst_Group_TPR,N_Unfair_Metrics
+BEHAVIORAL,TimeGroup_Participant,0.0283,Medium,0.0469,Slow,0
+BEHAVIORAL,ConfGroup_Participant,0.0574,Low-Confidence,0.0161,Med-Confidence,2
+BEHAVIORAL,ClickGroup_Participant,0.0313,Low-Engagement,0.0458,Low-Engagement,0
+BEHAVIORAL,EngagementGroup_Participant,0.0429,Disengaged,0.0516,Disengaged,0
+BEHAVIORAL,DecisionSpeedGroup_Decision,0.034,Fast,0.0291,Fast,0
+BEHAVIORAL,DecisionConfGroup_Decision,0.1169,Low-Conf,0.1916,Low-Conf,10
+BEHAVIORAL,DecisionClickGroup_Decision,0.0679,Med-Clicks,0.1746,Med-Clicks,2
+DEMOGRAPHIC,LinguisticGroup,0.0532,Non-Native,0.1175,Non-Native,2
+DEMOGRAPHIC,ExpertiseGroup,0.0017,Non-STEM,0.0262,Non-STEM,0
+DEMOGRAPHIC,ExperienceGroup,0.0314,High-Edu,0.037,High-Edu,0
+DEMOGRAPHIC,AgeGroup,0.0027,Young-18-34,0.0242,Young-18-34,0

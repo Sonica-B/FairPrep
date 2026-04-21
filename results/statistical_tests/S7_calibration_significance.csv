@@ -1,0 +1,9 @@
+Partition,Group,N,Group_CalibGap,Overall_CalibGap,Diff_from_Overall,Null_CI_2.5,Null_CI_97.5,P_Value,Significant_0.05,CALIB_UNFAIR
+LinguisticGroup,Native,342,0.04529,0.05782,-0.01253,-0.02224,0.023,0.2698,False,False
+LinguisticGroup,Non-Native,85,0.10824,0.05782,0.05041,-0.09018,0.09383,0.2777,False,True
+ExpertiseGroup,Non-STEM,136,0.02397,0.05782,-0.03385,-0.06621,0.06762,0.3147,False,False
+ExpertiseGroup,STEM,291,0.07364,0.05782,0.01582,-0.0315,0.03129,0.3167,False,False
+ExperienceGroup,High-Edu,154,0.13,0.05782,0.07218,-0.06036,0.06042,0.0208,True,True
+ExperienceGroup,Lower-Edu,273,0.01711,0.05782,-0.04072,-0.03431,0.03445,0.0212,True,False
+AgeGroup,Older-35plus,265,0.05479,0.05782,-0.00303,-0.03518,0.03542,0.8707,False,False
+AgeGroup,Young-18-34,162,0.06278,0.05782,0.00496,-0.05819,0.05823,0.8641,False,False

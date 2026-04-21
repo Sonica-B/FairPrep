@@ -1,0 +1,9 @@
+Disparity,Observed,Boot_SE,CI_2.5,CI_97.5,CI_Excludes_Zero
+NonNative_TPR_disparity,-0.11748,0.06843,-0.25021,0.01654,False
+NonNative_Hard_Acc_diff,-0.24038,0.09521,-0.42709,-0.04935,True
+NonNative_Hard_Acc_vs_overall,-0.18939,0.07672,-0.33975,-0.03939,True
+Fluent_Hard_Acc_vs_Native,-0.28205,0.09738,-0.46311,-0.07918,True
+NonNative_AP_disparity,-0.05318,0.04632,-0.1452,0.03687,False
+NonNative_FNR_disparity,0.11748,0.06828,-0.01657,0.25068,False
+STEM_Hard_Acc_diff,0.01587,0.09185,-0.16548,0.18949,False
+HighEdu_Hard_Acc_diff,0.03317,0.08857,-0.14116,0.20751,False

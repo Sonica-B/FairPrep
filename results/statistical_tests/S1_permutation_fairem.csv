@@ -1,0 +1,11 @@
+Metric,Direction,Observed_Disparity,Null_Mean,Null_Std,Null_CI_2.5,Null_CI_97.5,P_Value,Significant_0.05,Exceeds_Threshold
+AP,higher,-0.05318,6e-05,0.04516,-0.08847,0.088,0.2412,False,False
+SP,higher,-0.05499,7e-05,0.04499,-0.09029,0.08618,0.2366,False,False
+TPR,higher,-0.11748,-0.00083,0.06691,-0.13931,0.12765,0.0782,False,True
+TNR,higher,0.01469,0.00099,0.05761,-0.11313,0.10992,0.8201,False,False
+PPV,higher,-0.02256,0.00077,0.06617,-0.13224,0.12887,0.7404,False,False
+NPV,higher,-0.06512,-0.0011,0.06048,-0.12304,0.11447,0.2812,False,False
+FPR,lower,-0.01469,6e-05,0.05843,-0.10992,0.11885,0.8147,False,False
+FNR,lower,0.11748,-0.00027,0.06735,-0.1328,0.12911,0.0805,False,True
+FDR,lower,0.02256,-9e-05,0.06626,-0.1249,0.137,0.7402,False,False
+FOR,lower,0.06512,3e-05,0.06034,-0.11923,0.12067,0.2749,False,False
