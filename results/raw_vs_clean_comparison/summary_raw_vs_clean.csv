@@ -1,0 +1,17 @@
+Finding,Dataset,Value,Disparity,UNFAIR
+R1_NonNative_Hard_Accuracy,Raw,0.25,-0.1591,True
+R1_NonNative_Hard_Accuracy,Cleaned,0.25,-0.1894,True
+R2_NN_Hard_Gap,Raw,-0.1944,-0.1591,True
+R2_Fisher_p,Raw,0.0879,,False
+R2_NN_Hard_Gap,Cleaned,-0.2404,-0.1894,True
+R2_Fisher_p,Cleaned,0.0312,,True
+R3_AP_Disparity,Raw,0.25,-0.1591,True
+R3_AP_Disparity,Cleaned,0.25,-0.1894,True
+R3_TPR_Disparity,Raw,0.1818,-0.2444,True
+R3_TPR_Disparity,Cleaned,0.1818,-0.2804,True
+R3_FPR_Disparity,Raw,0.5,-0.1562,False
+R3_FPR_Disparity,Cleaned,0.5,-0.1538,False
+R5_Versions_UNFAIR,Raw,4/4,,True
+R5_Versions_UNFAIR,Cleaned,4/4,,True
+R6_NonNative_x_Hard_Coef,Raw,-0.5111,,True
+R6_NonNative_x_Hard_Coef,Cleaned,-0.7022,,True

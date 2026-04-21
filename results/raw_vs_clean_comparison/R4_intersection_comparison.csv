@@ -1,0 +1,13 @@
+Dataset,CrossPartition,CrossGroup,NN_N,NN_Acc,Nat_N,Nat_Acc,Gap_NN_minus_Nat,Fisher_p,UNFAIR_gap
+Raw,ExpertiseGroup,Non-STEM,8,0.125,36,0.4722,-0.3472,0.1146,True
+Raw,ExpertiseGroup,STEM,20,0.3,90,0.4333,-0.1333,0.3223,True
+Raw,ExperienceGroup,High-Edu,8,0.5,46,0.4348,0.0652,1.0,False
+Raw,ExperienceGroup,Lower-Edu,20,0.15,80,0.45,-0.3,0.0197,True
+Raw,AgeGroup,Older-35plus,16,0.375,86,0.4535,-0.0785,0.597,False
+Raw,AgeGroup,Young-18-34,12,0.0833,40,0.425,-0.3417,0.039,True
+Cleaned,ExpertiseGroup,Non-STEM,8,0.125,34,0.5,-0.375,0.1093,True
+Cleaned,ExpertiseGroup,STEM,20,0.3,70,0.4857,-0.1857,0.2023,True
+Cleaned,ExperienceGroup,High-Edu,8,0.5,42,0.4524,0.0476,1.0,False
+Cleaned,ExperienceGroup,Lower-Edu,20,0.15,62,0.5161,-0.3661,0.0043,True
+Cleaned,AgeGroup,Older-35plus,16,0.375,69,0.5072,-0.1322,0.4116,True
+Cleaned,AgeGroup,Young-18-34,12,0.0833,35,0.4571,-0.3738,0.0342,True

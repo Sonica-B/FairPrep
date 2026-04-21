@@ -1,0 +1,3 @@
+Dataset,N_Hard,N_NonNative_Hard,N_Native_Hard,N_Annotators_NN,N_Annotators_Nat,Overall_Hard_Acc,NonNative_Hard_Acc,Native_Hard_Acc,Gap_NN_minus_Nat,Disparity_NN_vs_Overall,Fisher_p,Odds_Ratio,UNFAIR_flag
+Raw,154,28,126,11,49,0.4091,0.25,0.4444,-0.1944,-0.1591,0.0879,2.4,True
+Cleaned,132,28,104,11,44,0.4394,0.25,0.4904,-0.2404,-0.1894,0.0312,2.8868,True
