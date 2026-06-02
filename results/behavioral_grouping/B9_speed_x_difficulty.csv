@@ -1,0 +1,10 @@
+SpeedGroup,Difficulty,N,Accuracy,Acc_Disparity
+Fast,Easy,54,0.9074,0.2072
+Fast,Hard,44,0.3864,-0.3139
+Fast,Medium,45,0.8667,0.1664
+Medium,Easy,45,0.8444,0.1442
+Medium,Hard,40,0.475,-0.2252
+Medium,Medium,57,0.7018,0.0015
+Slow,Easy,46,0.9565,0.2563
+Slow,Hard,48,0.4583,-0.2419
+Slow,Medium,48,0.6458,-0.0544

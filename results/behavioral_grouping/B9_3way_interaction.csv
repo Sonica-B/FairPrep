@@ -1,0 +1,13 @@
+SpeedGroup,Difficulty,LinguisticGroup,N,Accuracy
+Fast,Hard,Native,33,0.4242
+Fast,Hard,Non-Native,11,0.2727
+Fast,Easy,Native,44,0.9091
+Fast,Easy,Non-Native,10,0.9
+Medium,Hard,Native,32,0.5625
+Medium,Hard,Non-Native,8,0.125
+Medium,Easy,Native,36,0.8611
+Medium,Easy,Non-Native,9,0.7778
+Slow,Hard,Native,39,0.4872
+Slow,Hard,Non-Native,9,0.3333
+Slow,Easy,Native,38,0.9737
+Slow,Easy,Non-Native,8,0.875

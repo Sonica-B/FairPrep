@@ -1,0 +1,481 @@
+﻿SurveyVersion,QuestionNum,FirstClick,LastClick,DecisionTime,ClickCount,SurveyAnswer,ActualAnswer,ConfidenceLevel,IsExp,Explanations,Accuracy
+1,1,20.884,56.765,57.124,5,No,Yes,70,1,"If combined, there would be various blank entries. Also, some of the data that looks to be combined cannot be. For example, for Asia Table A did have a row for Asia, but nowhere specific to place China from Table B.",0
+1,1,142.765,142.765,145.698,1,No,Yes,90,1,These tables aren't really unionable as is... technically we can restructure one of the tables.  If you were to combine them as is it would conflate the country level and city level data.  ,0
+1,1,19.027,19.027,20.344,1,No,Yes,81,1,"There are so many differences in cultures and languages, it feels like that merge would be difficult.",0
+1,1,10.529,13.103,13.826,2,No,Yes,75,1,they both have very different languages,0
+1,1,10.66,10.66,22.478,1,No,Yes,65,1,they aren't that close to each other,0
+1,1,40.132,109.985,110.888,2,No,Yes,95,1,Two tables have different columns.,0
+1,1,21.853,21.853,22.981,1,No,Yes,40,1,They are about places but dont seem to have any relation to each other,0
+1,1,0.799,0.799,54.433,1,Yes,Yes,77,1,some of the cities listed there can speak the languages listed,1
+1,1,25.815,98.557,129.424,2,Yes,Yes,80,1,Both table can be matched into one because  tables 2 have city while table 1 is connoted with country which is a subset of country. This validate the matching of the table.,1
+1,1,22.355,22.355,23.431,1,Yes,Yes,81,1,"both  have similar content, so it can be combined.",1
+1,1,18.136,18.136,19.51,1,No,Yes,100,1,"Not similar in one column, city names and name of country.",0
+1,1,46.513,46.513,54.438,1,Yes,Yes,80,1,"The columns do not match perfectly, but two of the three columns do match. Also, Rio de Janeiro is a city in one of the countries in the first table.",1
+1,1,20.873,20.873,27.245,1,Yes,Yes,75,1,"Both tables contained the same attributes. The only difference is that one showed an attribute for cities, and the other counties. Both counties and cities are similar attributes.",1
+1,1,4.048,11.964,12.805,3,No,Yes,79,1,These countries have very little in common.,0
+1,1,73.277,73.277,75.862,1,Yes,Yes,58,1,"The tables could be combined if you broke it down by languages--making those the key,",1
+1,1,337.33,337.33,337.854,1,Yes,Yes,80,1,My answer was based on the data of the both table,1
+1,1,14.138,14.138,19.198,1,Yes,Yes,100,1,all data overlaps,1
+1,2,4.926,32.643,33.368,6,No,Yes,50,1,"The data from Table B does not appear to relate to Table A, the only similarities they had were political affiliation.",0
+1,2,140.746,140.746,142.337,1,Yes,Yes,90,1,I would have to say that these tables are unionable in a conditional sense... They do share a common underlying entity which would be the candidate.  The missing columns typically can show up as null values without creating semantic contradictions.  It is not a perect union and attribute scope should be considered.,1
+1,2,46.23,46.23,47.133,1,No,Yes,90,1,"They appeared to be evaluating different things, one had years, and the other had views as well as high-low ratings. They seem to be different.",0
+1,2,5.661,12.365,13.022,2,No,Yes,89,1,both groups have varying political sides they lean to,0
+1,2,35.502,35.502,36.496,1,Yes,Yes,73,1,The party lines match,1
+1,2,38.092,97.892,98.961,2,No,Yes,90,1,Tables A and B have different columns even though there are some overlaps,0
+1,2,10.621,10.621,12.341,1,Yes,Yes,70,1,The information seems to have come from the same domain,1
+1,2,0.405,466.729,468.834,7,Yes,Yes,82,1,This is because some names from each boxes share same ideology,1
+1,2,58.616,68.46,80.261,2,No,Yes,85,1,"In table 2, the  representative ideologies were included and the degree of the ideology. This wasn't provided in table 1.",0
+1,2,37.141,37.141,40.522,1,Yes,Yes,92,1,"They both have similar content ,so it can be expanded and combined.",1
+1,2,22.564,22.564,33.339,1,Yes,Yes,91,1,Yes because you can combine with party they support and names.,1
+1,2,22.113,22.113,47.736,1,Yes,Yes,100,1,"The names in the two tables are the same. The labels ""Conservative"" and ""Liberal"" match ""Republican"" and ""Democratic"" so the tables are similar and can be unionable.",1
+1,2,48.322,48.322,49.64,1,No,Yes,65,1,"There were some attributes that were different for each table such as the year being present in one, then high and low present in the other. ",0
+1,2,18.934,22.673,23.373,3,Yes,Yes,95,1,Taras name at the Demorat and Liberal are on both charts.,1
+1,2,34.2,34.2,35.204,1,Yes,Yes,96,1,The data types are all text strings,1
+1,2,22.17,22.17,22.544,1,Yes,Yes,81,1,My answer based on the the table,1
+1,2,32.302,32.302,36.839,1,Yes,Yes,75,1,relevant data appears in both,1
+1,3,14.035,51.908,52.483,5,No,No,50,1,"The tables both have sports data, but I could not reliably combine them.",1
+1,3,91.632,91.632,107.863,1,No,No,92,1,"The attribures in Table A versus Table B do not show the same semantic concept.  Table A described participants and organizational data, while Table B described what appears to be training activities and eqipment.  Combining them would conflate and cause error.",1
+1,3,73.001,73.001,74.519,1,Yes,No,100,1,"Both are representing sports, and different pieces of sports based on certain data.",0
+1,3,68.626,68.626,98.813,1,Yes,No,40,1,they are all athlete and can fall under one organization,0
+1,3,61.288,61.288,62.935,1,Yes,No,72,1,Different sports. Some of them match up,0
+1,3,5.955,65.772,66.608,3,No,No,90,1,They are not semantically the same attributes although both tables about sports.,1
+1,3,232.724,232.724,234.177,1,Yes,No,81,1,They both are pertaining to sports,0
+1,3,35.45,223.461,223.971,7,No,No,74,1,both boxes can't fit together due to the options presented in each box,1
+1,3,73.485,81.814,86.172,2,Yes,No,82,1,Table two is an extension of table 1,0
+1,3,69.101,69.101,98.533,1,No,No,66,1,its differnt in both the tables.,1
+1,3,19.939,19.939,25.208,1,Yes,No,90,1,"They both talk about sports, similar context.",0
+1,3,78.614,78.614,84.347,1,Yes,No,100,1,"Table A lists a male and female athlete along with the professional level league associated with the sport. Table B lists the equipment, drills, practice, and season for the sports in Table A.",0
+1,3,14.926,14.926,29.791,1,No,No,90,1,"The tables were not compatible. One displayed data for leagues, players, and locations, and the other displayed data for equipment and seasons.",1
+1,3,2.077,24.111,25.073,4,No,No,78,1,Completely different sports and areas,1
+1,3,60.783,60.783,64.341,1,Yes,No,82,1,Each line in each table corresponds to a sport,0
+1,3,41.892,44.524,45.83,2,No,No,80,1,my answer was based on the information provided in the tables,1
+1,3,14.476,14.476,19.462,1,No,No,44,1,it can be inferred but is not guaranteed that they cross over,1
+1,4,4.57,5.296,8.031,2,No,No,65,1,I do not feel that there is significant overlap between the two tables.,1
+1,4,138,138,139.198,1,No,No,92,1,"The tables reference very different categories within technological information, and none of the values apear in or correspond directly to one another.",1
+1,4,8.294,29.156,38.236,2,No,No,100,1,"One is talking about computer parts, another is talking about applications. ",1
+1,4,7.702,7.702,11.737,1,No,No,20,1,the amount of discipline been cate4gorized are many,1
+1,4,9.486,9.486,21.386,1,No,No,77,1,computer parts vs phone,1
+1,4,36.689,36.689,37.625,1,No,No,85,1,Table A focuses on hardware features and technical functions while Table B focuses on software and battery types.,1
+1,4,111.011,111.011,111.901,1,Yes,No,60,1,they both are about computers and programming,0
+1,4,0.131,123.091,123.814,4,No,No,77,1,The options are totally different,1
+1,4,79.824,93.525,98.921,2,Yes,No,70,1,The two tables are specifications of a system. Which the combination isn't conflicting when matched together. ,0
+1,4,43.944,52.911,57.34,2,No,No,61,1,"there is no overlap, its different values.",1
+1,4,24.918,24.918,25.885,1,Yes,No,75,0,,0
+1,4,42.66,42.66,78.4,1,No,No,20,1,"Table A lists processors, programming, and connection types. Table B lists operating systems and battery types. There is no clear connection between the processors and operating systems, so I don't think the table overlap much.",1
+1,4,26.145,26.145,36.196,1,No,No,100,1,"Table A showed data on processors, programming, and connectivity while Table B showed data on operating systems and batteries.",1
+1,4,5.064,7.073,7.9,3,No,No,90,1,Completely different computer languages.,1
+1,4,48.879,48.879,62.923,1,No,No,46,1,The columns were all different attributes,1
+1,4,1.148,1.939,2.831,2,Yes,No,72,1,my answer was based on the information provided in the tables,0
+1,4,23,23,24.922,1,Yes,No,0,1,no relevant overlapping data,0
+1,5,2.581,42.394,42.701,7,No,Yes,70,1,"Column A values were not identical between tables. When they were identical, columns B and C were different.",0
+1,5,112.584,112.584,114.035,1,No,Yes,90,1,"At first glance it appears to be unionable.  Table A and Table B both share the same attributes, but it appears that the values come from different conceptual domains and may not represent the same underlying set...",0
+1,5,3.828,25.853,28.451,3,Yes,Yes,100,1,"Both represent environment, air, and water.",1
+1,5,111.987,121.339,133.555,2,Yes,Yes,82,1,they are all related to cleaning stuff and washing,1
+1,5,30.872,30.872,32.385,1,No,Yes,81,1,Environment is the same but everything else is not with the same category,0
+1,5,6.922,6.922,16.244,1,Yes,Yes,95,1,Both tables have the same properties of the column,1
+1,5,12.265,12.265,14.061,1,Yes,Yes,100,1,Yes they have the same columns,1
+1,5,0.138,22.732,85.024,2,Yes,Yes,98,1,the two boxes consists of  same categories,1
+1,5,83.094,85.463,87.039,2,No,Yes,75,1,Non corresponding data in each tab,0
+1,5,45.312,45.312,46.843,1,No,Yes,42,1,they seem to have different values.,0
+1,5,5.873,5.873,14.397,1,Yes,Yes,100,1,attributes are the same,1
+1,5,137.152,137.152,139.784,1,No,Yes,12,1,"The ""Ice"" and ""Land"" columns are not found in both tables, so I don't think they belong to the same set.",0
+1,5,14.174,14.174,20.149,1,Yes,Yes,100,1,"They both talk about environment, air, and water; therefore, they appear to be from the same set.",1
+1,5,7.281,8.631,9.546,2,Yes,Yes,78,1,Very silmilar topics and traits.,1
+1,5,57.975,57.975,71.03,1,No,Yes,51,1,The values in the cells seemed random and unrelated to others in the same column/row,0
+1,5,0.631,0.631,1.726,1,No,Yes,79,1,my answer was based on the information provided in the tables,0
+1,5,40.193,40.193,41.163,1,Yes,Yes,10,1,guess,1
+1,6,5.755,8.223,8.778,2,No,Yes,60,1,I do not feel that the tables had similar data.,0
+1,6,244.048,244.048,245.523,1,No,Yes,90,1,"These two tables are somewhat similar but not synonymous.  Table A coveres multple scientific disciplines, whereas B seems to be fosuces on Quantum Physics concepts.  ",0
+1,6,11.228,24.992,36.848,2,No,Yes,97,1,"One is describing things that happen in the earth and science, these are things that are factual and tangible. The other is a set of equations that are applied to other things, and are not tangible.",0
+1,6,3.506,3.506,5.019,1,Yes,Yes,73,1,it is a STEM class lectures,1
+1,6,36.103,36.103,44.627,1,No,Yes,66,1,Table b is mostly quantum while table a is different subjects,0
+1,6,29.259,29.259,34.029,1,No,Yes,90,1,"Both tables differ in scope, domain, and meaning.",0
+1,6,25.744,25.744,27.03,1,No,Yes,70,1,they dont seem to be about the same topics,0
+1,6,0.71,6.159,7.197,2,No,Yes,81,1,they are totally different,0
+1,6,100.624,102.537,105.905,2,No,Yes,90,1,Table 1 is for various subjects while table 2 is basically quantum physics.,0
+1,6,13.425,13.425,21.043,1,No,Yes,40,1,data looks completely different.,0
+1,6,9.726,9.726,19.775,1,Yes,Yes,91,1,"They are both similar, just slightly differnt title for attributes.",1
+1,6,55.809,56.905,66.792,3,Yes,Yes,95,1,Quantum physics is included in the subset of both physics and chemistry.,1
+1,6,64.708,64.708,69.699,1,No,Yes,100,1,Quantum physics and scientific disciplines are not the same.,0
+1,6,15.041,17.447,18.217,3,No,Yes,91,1,Different types of science issues.,0
+1,6,53.927,53.927,67.133,1,Yes,Yes,90,1,the rows clearly correspond to different scientific concepts,1
+1,6,0.518,1.11,1.603,2,No,Yes,77,1,my answer was based on the information provided in the tables,0
+1,6,58.022,58.022,69.016,1,No,Yes,29,1,quantum physics is the only overlapping variable. ,0
+1,7,3.398,13.963,14.628,10,No,No,30,1,I do not know how the data between the two tables relate.,1
+1,7,199.377,199.377,200.428,1,No,No,90,1,"No, Table A and Table B can't be combined under a common Schema.  Table A seems to belong to Greek Concepts, periods and gods, whereas Table B apepars to be related to Western Philosophy.  There doesn't appear to be any viable relationship or a way to combine them.",1
+1,7,15.041,15.041,23.968,1,No,No,91,1,"It looks like one table is representing art, and the other table is representing religions and ideologies.",1
+1,7,5.297,6.769,7.177,3,No,No,84,1,has both phylosophy and religion which all both opposite,1
+1,7,18.08,18.08,41.592,1,No,No,55,1,gods vs religion. I guess it could be related,1
+1,7,59.356,59.356,60.993,1,No,No,85,1,Columns in both tables represent different kinds of fields and there is no shared key or consistent entity type.,1
+1,7,63.775,63.775,65.201,1,No,No,30,1,they dont seem to have similar data,1
+1,7,0.104,4.411,5.282,5,No,No,76,1,They are totally different,1
+1,7,20.124,21.924,50.89,2,No,No,100,1,Table 1 is displayed with Greek philosophers  while table table 2 is religious identification and ideologies ,1
+1,7,14.723,14.723,28.435,1,No,No,34,1,"it looks very different, both the tables.",1
+1,7,8.455,11.693,13.292,2,No,No,10,1,Different atrribute topics.,1
+1,7,59.666,74.611,79.797,2,No,No,84,1,"Table A revolves around Greek mythology, and Table B contains information about several different faiths.",1
+1,7,51.406,51.406,53.166,1,Yes,No,70,1,"Both contain information about belief systems and time periods, or eras. More information about time periods would be needed to combine the two.",0
+1,7,17.387,19.027,19.605,3,Yes,No,82,1,Grouped under history time frames.,0
+1,7,7.837,72.566,76.005,7,No,No,70,1,I don't see any sets of values that have a perfect 1-1 relationship here.,1
+1,7,0.05,0.42,0.865,2,No,No,75,1,my answer was based on the information provided in the tables,1
+1,7,18.986,18.986,20.193,1,No,No,0,1,guess,1
+1,8,13.695,25.889,26.856,4,No,No,30,1,Table A had words and actions while Table B had emotions and beliefs. I do not think these tables can be reliably combined.,1
+1,8,269.576,269.576,272.274,1,No,No,92,1,The columns don't represent the same types of things...the rows aren't the same types of records.There wouldn't be a meaningful analysis if these tables were combined.  Unioning them would produce a dataset that is structurally forced but semantically incoherent.,1
+1,8,24.071,24.071,34.763,1,No,No,100,1,"One is words and definitions, the other is emotions and beliefs. These are entirely opposite and would not fit together well at all.",1
+1,8,9.667,116.181,116.987,2,No,No,75,1,very different set of emotions being displayed here,1
+1,8,47.074,47.074,47.749,1,No,No,61,1,the beasts don't seem to relate with another,1
+1,8,25.729,44.435,53.622,4,No,No,85,1,Unioning these two tables would break consistency and coherence.,1
+1,8,11.467,11.467,12.86,1,No,No,60,1,These do not have the same data,1
+1,8,125.175,142.076,143.861,4,No,No,87,1,the two tables cant be joined together because they groups that are different from one another,1
+1,8,7.585,36.214,43.891,2,Yes,No,93,0,,0
+1,8,24.219,24.219,34.285,1,No,No,41,1,they both look very different.,1
+1,8,10.065,10.065,11.054,1,No,No,90,0,,1
+1,8,193.529,217.425,221.154,2,No,No,70,1,The processes listed in Table B don't seem to match the ones in Table A. I don't believe that any of the mythical creatures in Table A are 8-legged.,1
+1,8,28.148,28.148,34.063,1,No,No,60,1,The subjects of Tables A and B appear to be different.,1
+1,8,2.23,6.515,7.386,4,No,No,89,1,Completely different topics,1
+1,8,67.072,67.072,69.929,1,No,No,77,1,"I can't say I understand the meaning or the relationships in table B at all, it seems random.",1
+1,8,0.487,0.487,1.02,1,No,No,75,1,my answer was based on the information provided in the tables,1
+1,8,15.047,15.047,19.6,1,No,No,0,1,I don't see a connection,1
+2,1,6.111,14.038,14.793,4,Yes,Yes,83,1,"The topics covered in the tables are the same, which makes them easily joinable",1
+2,1,11.174,12.683,13.582,2,Yes,Yes,100,1,They have same number of columns and same order and data type for each column. Just need to rename them to be the same name before union.,1
+2,1,55.037,55.037,55.965,1,No,Yes,76,1,There is no exactly common field to join them,0
+2,1,48.424,48.424,51.091,1,Yes,Yes,85,1,Both tables have 3 columns in title/artist/genre. Minor changes could merge the tables.,1
+2,1,34.153,34.153,37.489,1,Yes,Yes,84,1,Both tables have categories pertaining to rock music. ,1
+2,1,92.368,279.246,280.761,5,Yes,Yes,90,1,"Both tables describe songs and share compatible attributes: a song title, an artist, and a genre.",1
+2,1,76.956,76.956,78.267,1,Yes,Yes,97,1,Both tables have 3 similar features (columns).,1
+2,1,43.281,45.142,45.999,3,Yes,Yes,84,1,The songs are similiar in impact,1
+2,1,46.297,46.297,47.129,1,No,Yes,88,1,"the elements from the two tables struck me as incongruent ‚Äî i wasn't going to summarily lump tables B and A together just because each had their mention of ""title"" as the designator of their respective columns",0
+2,1,4.522,4.522,5.6,1,Yes,Yes,72,1,It was the best and fair right to fo,1
+2,1,68.831,105.78,107.649,3,No,Yes,84,1,The tables do not have the same column names or clearly compatible structures,0
+2,1,30.352,30.352,36.443,1,Yes,Yes,93,1,"They are virtually the same information, but the labels are just worded differently, track title, artist, genre",1
+2,1,33.949,33.949,34.859,1,Yes,Yes,80,1,"Both tables have an song title, artist, and genre column",1
+2,1,5.836,5.836,6.837,1,Yes,Yes,88,1,They are similar genres so it can be combined together,1
+2,1,21,21,24.171,1,Yes,Yes,100,1,The columns can be combined under the columns of the first table and the information fits seamlessly. ,1
+2,2,3.238,36.355,36.695,11,Yes,Yes,36,1,"Both tables centered around the environment, different types of biomes, and weather, events and species you might find in the environment",1
+2,2,0.984,65.188,65.901,7,Yes,Yes,94,1,They are same data type (string) and appear to be from same data source.,1
+2,2,36.591,36.591,39.32,1,Yes,Yes,71,1,The first column contained many of the same item names,1
+2,2,15.613,60.693,62.319,4,Yes,Yes,71,1,"Multiple of the data types listed match between the tables, ",1
+2,2,60.245,60.245,62.181,1,No,Yes,66,1,I can't see similarities between the 2 tables by column,0
+2,2,49.96,107.686,110.843,5,Yes,Yes,86,1,Both tables include attributes related to environmental elements and sustainability focused solutions such as animals oceans plants energy lighting systems and flood management. The values are conceptual in nature and come from the same general environmental and infrastructure domain which makes the data types comparable across the two tables.,1
+2,2,133.572,133.572,134.399,1,No,Yes,99,1,Column 1 has the same data type but not column 2 and 3 which have different data attributes.,0
+2,2,624.141,629.164,630.573,2,No,Yes,86,1,the categories have no overlap,0
+2,2,4.55,90.295,91.254,2,No,Yes,74,1,"some elements were shared between the two tables, in the first column; the data in the other two columns appeared to reference events / phenom√¶na, not quite related to anything else",0
+2,2,3.444,3.444,4.171,1,No,Yes,69,0,,0
+2,2,65.554,65.554,70.701,1,Yes,Yes,82,1,"While the specific terms differ, the data type is the same and the domain appears related making them structurally compatible for union if column semantics are aligned",1
+2,2,185.29,185.29,251.099,1,Yes,Yes,9,1,"some things match, I am just unsure of what a majority of these things mean, like plants being in the row of the first table with irrigation makes sense. ",1
+2,2,646.97,646.97,648.601,1,No,Yes,65,1,"Only consistency that could be made were four items in both tables on energy, plants, animals, etc. Nothing else found that could tie both tables together.",0
+2,2,38.062,41.818,44.104,2,No,Yes,86,1,"They seem to describe different types of mechanics, natural and human inventions.",0
+2,2,157.5,157.5,186.786,1,Yes,Yes,50,1,"You could attribute the first column to environmental topics, the second systems and the third environmental practices. But it's not the same type of data so I'm hesitant.",1
+2,3,0.582,38.932,47.856,6,No,No,91,1,"No, because one of the tables was talking about philosophers and religions, and the other I was talking about Gods and ages",1
+2,3,0.814,96.844,97.388,5,No,No,69,1,"Greek mythology table vs a table about philosophers. Different columns and even though same data type of string, I don‚Äôt see a direct grouping for both.",1
+2,3,21.188,37.212,39.354,2,Yes,No,50,1,They all relate to religious items,0
+2,3,29.785,29.785,59.89,1,No,No,60,1,Philosophers and eras cannot easily be combined without losing some information.,1
+2,3,34.456,34.456,36.509,1,No,No,76,1,"i think some topics can relate, but the formatting of the tables and columns do not make sense to me.  ",1
+2,3,18.662,69.243,74.35,3,Yes,No,80,1,Both tables deal with concepts rooted in human intellectual traditions including philosophy religion mythology and abstract thought. While the specific categories differ the underlying theme connects to how societies across time have explained reality beliefs and meaning which supports grouping them under a common humanities or philosophical classification.,0
+2,3,0,0,34.458,0,No,No,100,1,The attributes are total different in table A and B.,1
+2,3,7.108,617.867,618.875,4,No,No,79,1,classic vs modern philosophy,1
+2,3,100.243,100.243,124.763,1,No,No,100,1,"grouping under a common category / classification was disqualified, when i saw ""hera"" grouped with '20th century' and ""poseidon"" grouped with '21st century' ‚Äî without any further context",1
+2,3,2881.878,2881.878,2882.528,1,Yes,No,66,0,,0
+2,3,47.701,47.701,49.641,1,Yes,No,83,1,"The terms in both tables are from similar broad themes like philosophy, history, and belief systems, even if the specific columns differ. That means you could group them together under a general category like ""humanities topics"" if you were combining them.",0
+2,3,83.681,83.681,151.058,1,Yes,No,52,1,"I believe it could fit together as a fundamental concept of time period, belief systems, known philosophers, gods worshipped etc. ",0
+2,3,58.576,58.576,59.75,1,No,No,90,1,No similar columns,1
+2,3,35.591,35.591,36.378,1,No,No,96,1,These are too different in theories to combine together,1
+2,3,47.391,48.024,48.927,2,Yes,No,100,1,Each tables data can be classified under philosophy or humanities.,0
+2,4,1.433,19.481,22.958,6,No,No,79,1,"No, the first table talked about participants and sports leagues while the second table was much more generic",1
+2,4,0.838,54.546,55.238,4,No,No,63,1,The attributes are different from the two tables even though they are related to sports.,1
+2,4,36.237,36.237,47.786,1,No,No,71,1,Although both tables seem to relate to sports there are no common fields,1
+2,4,24.484,24.484,27.649,1,No,No,61,1,While similar in format and sports topic. The 2 tables have significantly different contents.,1
+2,4,9.468,9.468,11.755,1,Yes,No,70,1,"theme is sports -- e.g. sport items, sport leagues ",0
+2,4,53.644,108.096,114.551,5,No,No,81,1,"There is no significant direct overlap in the values between Table A and Table B. While both tables relate broadly to sports, Table A contains names, venues, and professional leagues, whereas Table B lists equipment, seasons, actions, and activities. The values do not match or repeat across tables, even though they belong to the same general sports context.",1
+2,4,110.968,110.968,112.025,1,No,No,100,1,The data types are different and no one attribute of each tables is similar at all.,1
+2,4,69.943,70.599,71.382,2,No,No,85,1,"A mentioned the association and players while B mentions actions by players, non specifically.",1
+2,4,23.086,23.086,40.127,1,Yes,No,100,1,"i can envision a world where the entries enumerated in field one of table a, entail the people related to the sports stuff, that were listed off in all the rest of the columns",0
+2,4,1.587,1.587,2.424,1,No,No,68,0,,1
+2,4,115.037,115.037,117.176,1,No,No,80,1,"The words in each table describe totally different things one is about player names and sports leagues, the other is about equipment and game actions. Since they don‚Äôt share any of the same actual terms, there‚Äôs no real overlap in the content.",1
+2,4,49.531,120.365,121.003,2,No,No,74,1,"The first appears to be describing what im assuming to be coaches or players, location type and professional type of sport, where as the second is simply naming off important equipment needed for a sport, seasons it takes place, type of things done etc. both sports related but i dont think theres much overlap ",1
+2,4,241.836,241.836,252.99,1,No,No,87,1,No overlap observed both tables to link them together,1
+2,4,7.322,7.322,8.194,1,No,No,98,1,These talk about different sports terms and people so it can't be combined,1
+2,4,55.664,60.981,127.619,3,No,No,100,1,There is no overlap of values or attributes between the tables - the same values do not appear on both of the tables.,1
+2,5,1.563,35.179,35.194,11,No,Yes,26,1,"no, because both tables clearly outlined leaders in the political parties and didn‚Äôt qualify for a parent child relationship",0
+2,5,0.661,28.528,41.819,6,No,Yes,71,1,They were not parent-child relationship it was categorical.,0
+2,5,24.729,24.729,49.754,1,Yes,Yes,90,1,Both tables seem to be under a party hierarchy,1
+2,5,42.905,44.889,48.181,2,No,Yes,66,1,Neither table can be derived from the other. Both have the same information aside from 1-2 unique columns.,0
+2,5,19.208,24.507,24.811,3,No,Yes,66,1,the tables discuss politics. there is nothing discussing parent-child relations. ,0
+2,5,66.889,114.256,115.884,5,Yes,Yes,76,1,"The attributes in Table A and Table B fit into a hierarchical parent child relationship. Ideology can be seen as a higher level category that groups parties, parties are associated with specific leaders, and leaders are further described by attributes such as year and popularity.",1
+2,5,78.037,78.037,79.75,1,Yes,Yes,100,1,Party could be reduced into a small table for a few party types.,1
+2,5,1.47,124.552,125.184,4,Yes,Yes,98,1,both show leader and party,1
+2,5,191.873,191.873,195.134,1,No,Yes,100,1,there's nothing hierarchical nor parent-child that can form a union between either of these tables,0
+2,5,18.016,18.016,18.797,1,Yes,Yes,74,0,,1
+2,5,32.514,32.514,36.301,1,Yes,Yes,91,1,"Yes, because both tables have political leaders and parties that fit into a parent-child structure, like a party containing specific leaders and their ideologies.",1
+2,5,38.588,38.588,78.309,1,Yes,Yes,56,1,"yes, i believe it could work as the data provided could be expanded upon, connected together to provide greater detail about each candidate, ",1
+2,5,44.278,44.278,47.432,1,Yes,Yes,90,1,Party and Leader are columns in both tables. Both tables are able to form a parent-child relationship,1
+2,5,5.263,5.263,15.174,1,Yes,Yes,100,1,They can be combined into a parent-child relationship since it's about the same people.,1
+2,5,57.289,57.289,102.512,1,No,Yes,95,1,There is no hierarchical relationship with a single clear root.,0
+2,6,0.701,17.692,17.98,9,Yes,Yes,60,1,"I believe they would be part of the same entity, as they were both highlighting, different professions and seemingly rating them on a scale of 1 to 100",1
+2,6,2.126,65.797,69.392,9,Yes,Yes,84,1,Linked entities because the third column in both tables are different from each other.,1
+2,6,14.743,14.743,48.501,1,Yes,Yes,50,1,It is unclear what the numerical values represent but it seems the tables are describing individuals and their occupations.,1
+2,6,56.672,65.135,73.218,4,Yes,Yes,72,1,Both tables relate to jobs and link them to a numerical id.,1
+2,6,8.231,8.231,9.735,1,Yes,Yes,74,1,both tables discuss different jobs ,1
+2,6,48.499,82.15,110.041,3,Yes,Yes,75,1,"The attributes in both tables describe people and their professional characteristics. Table A includes age occupation and a personal trait, while Table B includes age occupation and a numerical score that could represent performance experience or evaluation. These attributes can be mapped to the same or closely related entity type, namely individuals and their professional profiles.",1
+2,6,33.254,33.254,35.339,1,No,Yes,70,1,"The attribute types are not clear, at least for the first column fo both tables. Are they supposed the same?",0
+2,6,16.567,16.567,21.396,1,Yes,Yes,96,1,both tables show professions,1
+2,6,96.25,96.25,97.678,1,Yes,Yes,68,1,"the listing of fields, with a range of numbers which fall within a general cadence (with the exception of one outlier) ‚Äî i think these tables are mappable with each other",1
+2,6,0.837,0.837,1.574,1,No,Yes,74,0,,0
+2,6,41.221,41.221,82.548,1,Yes,Yes,80,1,"Yes, because both tables describe job titles and numbers, which can be linked to the same kind of thing like a person‚Äôs profession and their age or experience.",1
+2,6,73.925,73.925,88.625,1,Yes,Yes,47,1,"the numbering im unsure of, was thinking it may be some kind of identifier, and listing of professions, and possible qualities associated with each",1
+2,6,39.579,39.579,52.292,1,Yes,Yes,70,1,The middle column of both tables look like they have similar data values and could possibly be linked together through that,1
+2,6,17.585,17.585,18.176,1,Yes,Yes,66,1,They talk about similar careers and attributes,1
+2,6,119.231,119.231,140.87,1,Yes,Yes,90,1,Both tables refer to individual people and could include age and occupation so the two tables could be linked by person or a single table of attributes.,1
+2,7,0.577,9.556,11.152,4,Yes,No,75,1,"I would say yes, as they both have specific language that talks about music theory and music language in general",0
+2,7,2.407,18.508,25.972,5,No,No,59,1,Different number of columns even though related will not allow a union.,1
+2,7,53.504,53.504,64.522,1,Yes,No,71,1,There seem to be a couple common fields describing poetry type and verse style,0
+2,7,43.624,43.624,44.81,1,Yes,No,65,1,Both tables on poetry can be combined with minor updates.,0
+2,7,12.879,17.096,18.55,3,Yes,No,91,1,both tables describe different elements of poetry ,0
+2,7,27.239,60.85,62.756,3,Yes,No,92,1,"There is sufficient overlap for a meaningful union. Both tables contain related literary and poetic concepts, and several values appear in both tables such as Free Verse, Blank Verse, Alliteration, and Metaphor. Even where exact matches are not present, the attributes come from the same poetry and literary analysis domain, making a combined union meaningful.",0
+2,7,62.502,159.952,162.551,2,Yes,No,71,1,"#rd column of table A and 1st column of table B have some similarity, which could be used for a union if it makes sense. Too little data to tell. Just a guess.",0
+2,7,28.176,44.316,44.7,3,Yes,No,91,0,,0
+2,7,17.843,17.843,19.164,1,Yes,No,100,1,definitely! these two tables were listing off Devices used for / used to describe prose-and-poem,0
+2,7,0.411,1.958,3.251,4,Yes,No,61,0,,0
+2,7,35.094,35.094,37.1,1,Yes,No,86,1,"Yes, because both tables are about writing and poetry terms like alliteration and metaphor so they‚Äôre talking about the same kind of topic.",0
+2,7,57.61,57.61,62.578,1,Yes,No,57,1,"seems like it would be as they all connect to some kind of writing style, poem style, song etc. i recognized a lot of those things but not all.",0
+2,7,330.33,330.33,332.82,1,Yes,No,80,1,The 1st and 3rd columns of table A share similarities with table B's 1st and 2nd columns,0
+2,7,4.488,4.488,5.026,1,No,No,66,1,They talk about different types of literature that can't be combined.,1
+2,7,110.956,110.956,113.528,1,Yes,No,100,1,Both tables could support a meaningful union because their rows could be combined into a single table without losing coherence. ,0
+2,8,0.374,25.596,26.053,11,No,No,59,1,"Structure would say the same, but the data types are too different for me to say that they are congruent",1
+2,8,11.614,21.698,21.986,4,No,No,100,1,Union would result in combining two unrelated datasets and wouldn‚Äôt make sense.,1
+2,8,9.691,9.691,18.902,1,No,No,91,0,,1
+2,8,13.801,38.008,52.6,2,Yes,No,74,1,"Data appears to be describing the features of a country/culture, tables can be unioned to show more information about each culture.",0
+2,8,17.8,18.784,19.487,2,No,No,79,1,the tables do not seem cohesive if put all together ,1
+2,8,51.843,106.686,109.089,3,No,No,76,1,"Union-ing Table A and Table B would not maintain consistency or coherence. Although both tables relate broadly to culture, their columns represent different semantic categories and structures such as cultural values food and music versus art movements craft traditions and political ideologies. The data types and meanings do not align column by column, so combining them would result in a dataset that is confusing and semantically inconsistent.",1
+2,8,65.317,65.317,69.565,1,No,No,100,1,There is no connection between the two tables in terms of common data.,1
+2,8,10.847,115.764,116.545,3,No,No,79,1,categorical mismatches,1
+2,8,31.061,31.061,32.315,1,Yes,No,100,1,all 6 columns described expressions of Human Culture. even if they-all seem disparate on the surface.. ..looking a little deeper would resolve that conflict readily,0
+2,8,0.417,0.832,1.47,2,No,No,74,0,,1
+2,8,29.028,29.028,32.579,1,No,No,79,1,"No, because you'd be mixing completely different topics like tacos and reggae with quilting and socialism under mismatched headings, which would make the combined table confusing and inconsistent.",1
+2,8,13.129,43.967,68.179,4,Yes,No,66,1,"seems like it could be a continuation based on common cultures and values, and what they are likely known for or what originated where etc.",0
+2,8,15.502,15.502,26.534,1,No,No,80,1,I do not see any similar columns,1
+2,8,46.382,46.382,47.773,1,No,No,100,1,The concepts are too different and the topics don't combine together,1
+2,8,82.553,82.553,83.959,1,No,No,100,1,Column semantics do not match so there you can't align the columns meaningfully. ,1
+3,1,8.215,37.053,42.078,2,No,Yes,75,1,"The columns represent different types of information. Table A has countries while Table B has cities, so they don't match up properly for a union.",0
+3,1,12.485,12.485,106.734,1,Yes,Yes,5,1,I do not believe either are unionable because there is too much broad information given without any context.,1
+3,1,19.426,71.851,72.352,4,No,Yes,28,1,I think because the one is regions vs capitals it would be a bit difficult,0
+3,1,189.153,189.153,190.328,1,Yes,Yes,100,1,"Seems to be the same information, just in a different order of columns.",1
+3,1,2.262,14.622,15.4,6,Yes,Yes,83,1,"The data is of similar types, classifying people, country and cultures",1
+3,1,1.277,21.7,24.663,2,Yes,Yes,75,1,I mostly went with my gut feeling based on what I know.,1
+3,1,19.669,19.669,23.574,1,Yes,Yes,100,1,they have the same categories for columns,1
+3,1,27.223,27.223,52.652,1,No,Yes,81,1,It didn't seem like there was a column that would be a useful Primary Key which would help create an identifying row.,0
+3,1,25.976,25.976,31.8,1,Yes,Yes,100,1,"The columns for language spoken, continent and country/region will line up together",1
+3,1,2.969,10.072,31.674,2,Yes,Yes,100,1,I saw common words in each tables. ,1
+3,1,3.855,87.501,89.859,2,No,Yes,90,1,"The columns contain different data types (Cities vs. Continents) in the same positions, breaking compatibility.",0
+3,1,51.105,51.105,51.811,1,Yes,Yes,100,1,All of the columns have equal data types and information,1
+3,1,10.29,10.29,12.212,1,No,Yes,100,1,Because there is no context for what the tables imply about what it's categorizing ,0
+3,1,9.274,9.274,9.954,1,No,Yes,78,1,I gave that answer because of the information given in both table,0
+3,1,15.495,15.495,32.515,1,Yes,Yes,100,1,An extra column to accommodate the capital city could easily be added to unite both tables,1
+3,2,19.352,19.352,23.828,1,No,Yes,70,1,"Table A covers different scientific disciplines while table B is only about quantum physics, so the concepts aren't the same.",0
+3,2,0.678,18.544,19.558,3,Yes,Yes,100,1,I believe that it shows the reasoning and the purpose. ,1
+3,2,62.719,62.719,68.786,1,Yes,Yes,6,1,I mean they are all scientific concepts just with varying factors.,1
+3,2,24.237,24.237,34.08,1,No,Yes,68,1,Quantum physics is specific where the scientific categories are general.,0
+3,2,3.775,11.748,12.487,7,Yes,Yes,91,1,"It is based in the same principles of theory, execution and discipline ",1
+3,2,1.324,20.834,29.378,4,No,Yes,83,1,Based on the given information and how it sounded.,0
+3,2,13.1,13.1,14.138,1,No,Yes,84,1,they have different table contents,0
+3,2,13.396,13.396,16.118,1,Yes,Yes,84,1,It seemed like they were discussing physics to some degree with different attributes in each table.,1
+3,2,44.968,66.987,68.343,3,Yes,Yes,100,1,The wording of the columns are similar and pose the same idea.,1
+3,2,24.683,24.683,32.306,1,Yes,Yes,95,1,"I saw both tables have ""concept name"" columns. ",1
+3,2,42.99,44.066,92.971,2,No,Yes,89,1,Table A lists broad disciplines while Table B lists specific physics sub-topics.,0
+3,2,14.428,14.428,16.701,1,No,Yes,100,1,The last columns do not represent each other,0
+3,2,35.582,35.582,37.251,1,No,Yes,100,1,Ones quantum physics and the otheres was an odd combination of physical sciences and chemistry all though there are over laps they aren't the same,0
+3,2,0.233,0.572,0.99,2,No,Yes,78,1,I gave that answer because of the information given in both table,0
+3,2,55.67,55.67,57.729,1,No,Yes,100,1,"Table B only concerned concepts in Quantum Physics, whereas Table A was about multiple subjects",0
+3,3,56.294,56.294,63.505,1,No,No,65,1,"Table A has mythological creatures while table B has emotions and abstract concepts, so they don't fit a common category.",1
+3,3,26.415,26.415,27.499,1,Yes,No,100,1,"They are exact attributes, emotions, and creatures given.",0
+3,3,5.052,20.596,32.689,4,No,No,78,1,Table A had more like fantasy and creature stuff and Table B had more about emotions and drives while having some fantasy elements,1
+3,3,16.02,16.02,21.54,1,No,No,20,1,I was not seeing the relationship here so I said no.,1
+3,3,67.21,76.786,86.79,6,No,No,78,1,There are different objects and actions that don't fall in the same category.,1
+3,3,36.976,52.406,53.418,5,No,No,88,1,Considering it is easier to read and makes more sense.,1
+3,3,9.436,9.436,10.09,1,No,No,73,1,they are tables of different things and concepts,1
+3,3,40.249,40.528,41.157,2,No,No,46,1,It didn't seem like there was any rhyme or reason behind the columns in Table B,1
+3,3,47.522,47.522,56.33,1,No,No,100,1,Table B has feelings which are not in table A,1
+3,3,12.652,12.652,15.032,1,No,No,89,1,Items in both tables are different categories. It is hard to do. ,1
+3,3,47.692,48.359,49.469,2,No,No,77,1,"Table A lists mythological creatures, while Table B mixes emotions, abstract concepts, and random nouns.",1
+3,3,18.14,18.14,18.897,1,No,No,100,1,It is obvious from reading that they are not equal,1
+3,3,14.867,14.867,23.542,1,No,No,100,1,One's legendary creatures and the others is who knows. ,1
+3,3,55.085,55.085,55.584,1,No,No,73,1,I gave that answer because of the information given in both table,1
+3,3,53.999,53.999,58.479,1,No,No,91,1,"The left column in Table B seemed to be an outlier and would prevent uniting the tables. Otherwise, B could fit with A as a table of mythical creatures and what they represent in myth",1
+3,4,23.055,44.223,44.935,2,No,No,60,1,"table A is about mythological creatures and table B is about emotions and concepts, so they're pulling from different data sets.",1
+3,4,2.858,10.128,11.824,3,No,No,77,1,"There are different things involved, they all are not apart of the same information.",1
+3,4,13.423,36.71,37.39,3,Yes,No,91,1,Both tables could be grouped together as a set for a Fantasy campaign characters sheets or for like an RPG ,0
+3,4,19.393,19.393,20.769,1,No,No,62,1,These seemed to be unrelated data sets.,1
+3,4,5.542,8.406,10.423,4,No,No,75,1,This represents two different data sets that has more physical representing of each,1
+3,4,6.597,12.98,15.697,2,No,No,78,1,One is much more specific and straight forward in a simplified way.,1
+3,4,5.301,16.354,18.154,2,No,No,58,1,they lookt o be coming from two datasets,1
+3,4,99.954,99.954,102.383,1,No,No,84,1,I cannot identify a common column shared between the two tables.,1
+3,4,23.841,24.447,25.57,2,No,No,100,1,The wordings of the column headings are completely different ideas.,1
+3,4,14.832,14.832,23.483,1,Yes,No,73,1,"Columns in both tables could belong to the same broad category, and they have the same format. ",0
+3,4,30.33,41.158,50.684,3,No,No,91,1,Table A data concerns mythical creatures while Table B data involves abstract human concepts.,1
+3,4,14.52,14.52,15.21,1,No,No,70,1,They do not represent the same values,1
+3,4,9.098,9.098,11.012,1,No,No,100,1,Because the data set was made by data scientists and is there for obviously flawed. ,1
+3,4,0.542,4.708,5.358,2,No,No,82,1,I gave that answer because of the information given in both table,1
+3,4,41.42,41.42,42.552,1,Yes,No,80,1,"Both seem to be discussing mythical creatures, how they are depicted in stories and colloquial language, and what they represent.",0
+3,5,89.027,89.495,90.901,2,Yes,Yes,55,1,both tables have the same column structure and deal with environmental topics in similar categories.,1
+3,5,18.408,18.408,19.4,1,Yes,Yes,88,1,Table A and Table B both are environmental and energy related,1
+3,5,7.403,76.556,78.97,3,Yes,Yes,82,1,Both seem to deal with different problems in different environment and finding contributing factors and ways to aid in helping it,1
+3,5,37.269,37.269,41.078,1,No,Yes,30,1,"I don't think the water categories are similar even with synonyms, but I'm not confident.",0
+3,5,1.329,12.567,13.739,5,Yes,Yes,85,1,It is from the same category of measuring ecological actions ,1
+3,5,5.502,5.502,8.14,1,Yes,Yes,80,1,Mostly talks about the same thing in a more specific way.,1
+3,5,2.766,2.766,3.843,1,Yes,Yes,100,1,they have the same columns,1
+3,5,7.651,7.651,8.259,1,Yes,Yes,92,1,They have the exact same column names and their row values match what would be commonly found in such columns.,1
+3,5,32.544,32.544,34.552,1,Yes,Yes,100,1,The columns could be combined without losing meaning because the concepts (synonyms) are the same idea.,1
+3,5,2.967,2.967,4.68,1,Yes,Yes,100,1,Both tables have same column names. ,1
+3,5,46.482,47.611,48.124,2,Yes,Yes,93,1,Both tables share identical headers and synonymous environmental sustainability data.,1
+3,5,7.011,7.011,7.6,1,Yes,Yes,100,1,The column headers and information represent similar data. ,1
+3,5,36.772,36.772,40.126,1,No,Yes,100,1,Because the tables aren't written correctly and make false claims already like net zero emissions. It's only going to make things worse.,0
+3,5,2.824,2.824,3.783,1,No,Yes,84,1,I gave that answer because of the information given in both table,0
+3,5,51.603,51.603,58.944,1,Yes,Yes,29,1,"Both tables seem to be sourcing terms from scientific experiments, tools, or described phenomena in nature",1
+3,6,18.823,18.823,21.826,1,No,Yes,50,1,the tables have different structures and don't show a clear parent-child relationship between the atributes,0
+3,6,47.739,47.739,51.002,1,No,Yes,62,1,They may all be about political but that technically doesn't mean hierarchical. I guess it would depend on who is viewing the information. ,0
+3,6,23.805,23.805,28.519,1,Yes,Yes,68,1,I'm just thinking it could be subsections of Table A for people being in office during those terms,1
+3,6,30.487,30.487,31.974,1,Yes,Yes,75,1,This seems like information that could be grouped that way.,1
+3,6,12.954,13.171,13.858,2,No,Yes,83,1,It is all about politics and does not represent the parent child relationship. ,0
+3,6,8.795,8.795,10.094,1,No,Yes,83,1,The tables are using different measurements and values.,0
+3,6,5.263,5.263,5.814,1,No,Yes,90,1,one has more variables than the other,0
+3,6,57.443,57.443,60.67,1,Yes,Yes,91,1,"Table B was clearly a subset of Table A, deeming A as the parent",1
+3,6,23.666,23.666,25.414,1,No,Yes,100,1,This is more of a coworker or peer relationship. ,0
+3,6,15.525,15.525,16.779,1,No,Yes,90,1,Both tables have different row categories. It is hard to union. ,0
+3,6,13.307,40.079,41.08,2,Yes,Yes,94,1,The tables map general parties to specific ideological sub-classifications for identical individuals.,1
+3,6,144.657,144.657,147.779,1,No,Yes,78,1,I do not believe they fall under this category.,0
+3,6,21.319,21.319,23.761,1,No,Yes,100,1,I mean you could consider it that if you just want to make up labels but no one is going to read it or interpret the data because the more you make up bull crap the less people care about what your doing.,0
+3,6,2.45,2.45,3.124,1,No,Yes,66,1,I gave that answer because of the information given in both table,0
+3,6,30.088,30.088,30.923,1,Yes,Yes,65,1,"It's hard to say without column titles, but it seems that both tables have info that could be from the same source, where high/low may indicate a separate attribute that is in hierarchy to attributes like Independent/Republican",1
+3,7,23.546,23.546,29.37,1,No,No,70,1,the tables cover completely different topics with no apparent keys to relate them.,1
+3,7,16.366,26.955,29.745,3,No,No,100,1,I do not believe that surrealism and sushi go together. I do not think that all that was given could be under a certain category. ,1
+3,7,25.521,25.521,42.518,1,No,No,75,1,none of the categories appeared similar to me,1
+3,7,37.062,37.062,43.501,1,No,No,20,1,I was not seeing the relationships here for this one.,1
+3,7,4.754,4.971,11.185,2,No,No,81,1,One is about cultural values and items. The other is about government and politics. ,1
+3,7,8.991,8.991,9.762,1,No,No,83,1,The tables talk and mention different things.,1
+3,7,5.763,8.118,14.671,3,No,No,81,1,they do not have a common key between the two tables,1
+3,7,86.491,86.491,92.286,1,No,No,77,1,I was unable to identify any primary key.,1
+3,7,37.497,37.497,48.984,1,No,No,100,1,One table is about art and realism and the other is about music and food. Different concpts.,1
+3,7,18.233,18.233,19.007,1,Yes,No,91,1,The items in both tables are too different to be grouped into a general broad theme. ,0
+3,7,31.792,45.773,46.597,3,No,No,93,1,"The tables lack matching attributes or relational keys, representing completely unrelated cultural and artistic domains.",1
+3,7,7.562,7.562,9.418,1,No,No,67,1,There aren't any matching keys between the tables.,1
+3,7,12.6,12.6,27.079,1,No,No,100,1,The only way you could is if you were going to claim it's trigger words for extreme liberals.,1
+3,7,0.661,14.445,15.156,6,Yes,No,81,1,I gave that answer because of the information given in both table,0
+3,7,43.916,43.916,46.167,1,No,No,57,1,The data in the columns is too different without supporting information to help delineate a relationship between the two tables.,1
+3,8,24.741,24.741,28.484,1,No,No,75,1,the columns represent completely different concepts with no matching attributes between the tables,1
+3,8,0.964,18.199,25.555,5,No,No,100,1,"Different time periods and categories is what would be troubling, the concepts behind certain ""isms"" mixed with philosophers is not compatible. ",1
+3,8,41.081,110.223,111.781,7,No,No,9,1,"I mean it feels loose to me, but I guess you could connect the philosophers to the actions and beliefs to the era but I don't think I personally would",1
+3,8,30.494,30.494,31.685,1,Yes,No,40,1,"I am not confident, but I thought these might be able to be combined, nothign seems to be contradictory to anything else.",0
+3,8,24.838,36.576,38.428,11,No,No,90,1,Two different cultures and systems are being explained,1
+3,8,8.698,20.963,21.894,4,No,No,74,1,The tables mention different values and variables.,1
+3,8,2.9,3.424,4.028,2,No,No,90,1,they have two different sets of data nd variables,1
+3,8,14.011,15.195,15.768,2,No,No,97,1,I could not identify any common columns.,1
+3,8,29.139,30.887,60.688,2,No,No,100,1,Mythology and religion don't mesh well together ,1
+3,8,6.199,6.199,7.334,1,No,No,94,1,Both tables are too different to be grouped into a general theme. ,1
+3,8,48.049,48.049,57.337,1,No,No,91,1,The tables contain unrelated data domains: Greek mythology versus philosophy and religion.,1
+3,8,7.149,7.149,7.888,1,No,No,92,1,They do not have any matching keys or relation between each other.,1
+3,8,20.384,20.384,35.098,1,No,No,100,1,They just don't match.,1
+3,8,21.149,21.149,21.651,1,No,No,71,1,my answer was based on the information provided in the tables,1
+3,8,13.638,13.638,14.841,1,No,No,82,1,"One is about Greek mythology, another is about philosophers",1
+4,1,728.64,728.64,732.047,1,Yes,Yes,50,1,It's all different types of mathematics,1
+4,1,10.906,10.906,16.201,1,Yes,Yes,90,1,All three columns in each table seemed to have the same sort of info in each column.,1
+4,1,22.565,22.565,26.126,1,Yes,Yes,99,1,Both fields of table B aligned with the fields in table A by type and description,1
+4,1,31.272,31.272,50.484,1,Yes,Yes,100,1,Both related to areas of mathematics,1
+4,1,2.674,55.636,55.652,9,Yes,Yes,60,1,All the information that was provided are related to mathematics and I think it will be possible.,1
+4,1,5.723,26.192,27.138,2,Yes,Yes,100,1,Columns and data types align,1
+4,1,54.172,54.172,55.43,1,Yes,Yes,91,1,"The data types match. Table A contains names of math subjects, table B contains the related social roles. ",1
+4,1,43.8,43.8,44.954,1,Yes,Yes,90,0,,1
+4,1,5.787,32.011,35.305,8,Yes,Yes,100,1,"The structural mapping between the two tables is identical, with both following a clear pattern of ""Subject,"" ""Key Terms,"" and ""Description."" Because the data types and thematic content align so perfectly, there's no logical reason they couldn't be combined into a single reference table",1
+4,1,26.633,26.633,27.79,1,Yes,Yes,40,1,I was somewhat confident in my answers because of the material i saw that described each subject very well ,1
+4,1,6.917,107.146,107.446,5,Yes,Yes,80,1,The subjects are very similar ,1
+4,1,36.054,36.054,37.755,1,Yes,Yes,86,1,They are very much compatible with each other because both the tables are based on an identical column scheme and present similar fields of mathematics with similar amounts of details.,1
+4,1,13.456,13.911,29.465,2,Yes,Yes,72,1,Each column contained similar data between the two tables.,1
+4,2,11.226,11.635,13.392,2,Yes,Yes,81,1,"Both tables have the same political leaders, so merging the tables can increase the amount of informaton for each leader",1
+4,2,9.213,41.046,41.979,3,Yes,Yes,91,1,The tables could be merged by using the people's names as the common link.,1
+4,2,25.505,25.505,29.451,1,Yes,Yes,100,1,Leader and Party both align between tables so it's joinable in order to include the year,1
+4,2,27.879,27.879,76.311,1,No,Yes,100,1,Two columns in Table 2 are not present in Table 1,0
+4,2,7.579,44.592,45.7,3,Yes,Yes,100,1,This is definitely possible because table. Contains more information about the candidates.,1
+4,2,14.002,14.002,26.283,1,Yes,Yes,100,1,They are both from the political domain.,1
+4,2,60.07,60.07,67.14,1,Yes,Yes,100,1,Table B is completely included in table A. It's a part of it. ,1
+4,2,12.612,47.142,49.19,2,Yes,Yes,70,0,,1
+4,2,3.712,23.4,24.2,7,No,Yes,95,1,"The tables have a different number of columns and capture distinct attributes, such as ""Year"" in Table A versus ""Ideology"" and ""Popularity"" in Table B. Because the schemas and data domains don't align, they cannot be merged into a single, consistent table without creating significant data gaps.",0
+4,2,41.166,41.166,42.825,1,Yes,Yes,80,1,"I was confident this time around answering because i saw that each political party made sense if they were republican,democratic or independent",1
+4,2,10.028,17.5,18.073,3,Yes,Yes,76,1,The political party descriptions are similar and could mean the same thing ,1
+4,2,33.734,33.734,38.812,1,No,Yes,75,1,"The meaning and structure of the columns in both tables are quite different, which shows that they do not belong to a similar domain and cannot be aligned directly.",0
+4,2,25.079,33.254,44.335,2,Yes,Yes,60,1,Table B was an expansion of table A,1
+4,3,16.73,16.73,20.67,1,No,No,50,1,There's not much to connect all of these fields together,1
+4,3,27.923,27.923,28.686,1,No,No,90,1,These don't match up at all.,1
+4,3,24.986,24.986,46.677,1,No,No,100,1,"There is no mention in table A of operating system, software, nor battery type  as there is in table B.  You cannot join them.",1
+4,3,54.544,54.544,82.934,1,No,No,100,1,"A and B, although both related to computers, did not contain similar values",1
+4,3,2.005,24.72,26.134,4,No,No,30,1,I am not sure about t this one as I am not familiar with lots of information that has been posted.,1
+4,3,15.018,15.018,16.156,1,No,No,60,1,One table is hardware and one table is software.,1
+4,3,81.91,83.133,84.365,2,Yes,No,41,1,"Both A and B include computer systems, chips, and basic functions of computers. I don't know how closely they are related though",0
+4,3,7.331,7.331,17.482,1,No,No,100,1,The two tables present different information,1
+4,3,4.001,24.944,27.848,8,No,No,90,1,"The tables lack value overlap because Table A focuses on hardware and development tasks, while Table B targets operating systems and battery specs. These represent different sub-domains of technology that do not align row-to-row for a logical union.",1
+4,3,48.62,48.62,49.828,1,Yes,No,30,1,I was too confident in my choices this time around because i couldnt recognize one table and the materials presented,0
+4,3,12.306,17.586,19.298,3,No,No,95,1,The items are very different between tables ,1
+4,3,39.861,39.861,42.84,1,No,No,87,1,"The categories and concepts presented in the tables are (hardware/ features vs operating systems/ apps) totally different, and there is no common value.",1
+4,3,54.805,57.992,59.377,2,No,No,50,1,"The columns in the tables were from the same domain, but there was no overlap.",1
+4,4,12.743,12.743,16.686,1,No,No,53,1,"Though both tables have to do with sports, there's not enough of a common link to merge them",1
+4,4,29.974,29.974,31.338,1,Yes,No,50,1,These could or could not be joined. Table B could also be about the people in table A.,0
+4,4,78.799,78.799,82.29,1,Yes,No,100,1,"The attributes in table B (Sports equipment and such) all align with fields in table A.  That is, football needing helmet/cleats and there being a line item for NFL/AFL in table A.",0
+4,4,66.803,66.803,118.543,1,No,No,100,1,The top 4 rows of each could be combined if rearranged but the last row of each could not be combined,1
+4,4,49.446,53.746,54.789,4,Yes,No,60,1,I think in this sets it is possible to combine the two together as all of them relate to games.,0
+4,4,52.39,52.39,53.378,1,No,No,70,1,Table A would come from the players data set while Table B would come from the sport schedule data set,1
+4,4,40.928,40.928,73.39,1,Yes,No,80,1,"I pair these tables based off leagues' names, venues from A, and equipments from B. I believe they are the same sports.",0
+4,4,10.9,10.9,27.992,1,No,No,100,1,The tables present different information,1
+4,4,3.881,21.939,22.651,8,No,No,95,1,"The attributes in Table A (Players, Venues, Leagues) and Table B (Equipment, Season, Practices, Drills) represent distinct categories that do not overlap. Since they track different types of entities, organizational vs. operational, they do not draw from the same data set.",1
+4,4,61.049,61.049,61.76,1,No,No,20,1,In not familiar with the table brand so i wasnt confident in choosing my decision,1
+4,4,15.449,19.415,20.174,3,No,No,75,1,"Table B has more data than A, so I think they are not from the same set",1
+4,4,165.824,172.801,173.917,2,No,No,80,1,"The attributes belong to various sets: Table A is all about people, venues, and leagues, whereas Table B is about equipment, seasons, practices and drills that are totally different.",1
+4,4,54.201,109.685,111.301,3,Yes,No,71,1,They could be from the same set but rows were in a different order.,0
+4,5,23.014,23.014,24.746,1,Yes,Yes,55,1,Each of these are theories/principles of science,1
+4,5,8.755,8.755,11.422,1,Yes,Yes,90,1,Both tables are just giving info on physics ideas.,1
+4,5,28.815,28.815,31.954,1,Yes,Yes,100,1,"Both table A and B can be appended together.  All 3 columns have the same attribute type -- theory, what's effected, and the scientific field behind it.",1
+4,5,39.506,39.506,44.753,1,No,Yes,100,1,"A was a variety of sciences, B represented only Physics",0
+4,5,1.868,34.298,35.646,6,No,Yes,40,1,"Even though they all are from science related, they cannot be combined in one table.",0
+4,5,38.924,38.924,71.225,1,No,Yes,85,1,Table B's data is all regarding Quantum theory. Table A did not have an entry that could be mapped,0
+4,5,65.764,65.764,91.134,1,Yes,Yes,55,1,"Table B is obviously linked to ""physics"" in table A, but I'm not sure about the portion of table B linked to other subjects listed in A.",1
+4,5,19.592,20.836,21.174,2,No,Yes,80,0,,0
+4,5,4.2,20.015,21.049,6,No,Yes,85,1,"Table A covers broad, classical science disciplines across multiple fields, while Table B is strictly focused on the highly specialized entity of quantum mechanics. These represent different scales of scientific study and do not describe the same level of conceptual entity.",0
+4,5,47.617,47.617,49.144,1,Yes,Yes,30,1,I wasnt too confident in my decisions but the material of the table contents seem quite similiar,1
+4,5,14.425,16.1,16.859,4,No,Yes,60,1,Table B seems to reference a specific field of science whereas table A is more general ,0
+4,5,43.306,43.306,44.765,1,No,Yes,75,1,"The attributes in the two tables describe concepts from different domains and are not part of the same or directly related entity, so they would not reasonably be mapped together.",0
+4,5,35.295,43.704,46.201,2,No,Yes,81,1,Table B is specific to quantum physics ,0
+4,6,90.099,90.099,91.621,1,No,Yes,60,1,Things seem unrelated enough to each other that merging the table wouldn't make sense,0
+4,6,18.138,18.138,19.412,1,Yes,Yes,50,1,I think these could maybe go together. They seem to be natural science topics and then subtopics.,1
+4,6,89.394,96.786,97.468,2,Yes,Yes,100,1,Real world relationships exist in both tables.  Oceans -> Cooling -> reefs for example.,1
+4,6,42.336,42.336,43.317,1,No,Yes,100,1,"The first row of each could not be combined, the others could be combined",0
+4,6,18.023,35.055,36.322,4,No,Yes,60,0,,0
+4,6,13.944,13.944,33.086,1,Yes,Yes,90,1,A PK could be defined based on Column A,1
+4,6,13.994,80.261,82.07,2,No,Yes,35,1,"The two tables don't use the same schema, because they are not describing the keys of the same categories.",0
+4,6,171.587,171.587,172.656,1,Yes,Yes,50,0,,1
+4,6,4.482,22.544,23.439,8,Yes,Yes,80,1,"The tables share an identical three-column structure and draw from the same thematic domain of environmental science and sustainable infrastructure. Because the columns in both tables represent analogous types of data, broad categories, specific systems, and management methods, they can logically exist under a single, unified schema.",1
+4,6,63.753,63.753,64.809,1,Yes,Yes,70,1,I saw some indentical comparisons for both tables which was easy for me to form my answer without any issues,1
+4,6,7.92,25.39,25.801,6,Yes,Yes,65,0,,1
+4,6,535.884,535.884,703.827,1,No,Yes,75,1,"The two tables arrange data based on various underlying structures and purposes and thus there is no clear and consistent set of entities, as well as relationships that would permit them to be combined into one coherent schema.",0
+4,6,43.357,44.371,50.236,2,No,Yes,68,1,I do not think the data in the tables are correlated.,0
+4,7,3.892,3.892,8.931,1,No,No,60,1,All the fields are completely different so merging the tables is nonsensical,1
+4,7,7.998,7.998,8.781,1,No,No,91,1,These don't seem similar at all.,1
+4,7,7.692,7.692,22.606,1,No,No,91,1,These appear to be two different tables with no obvious link.,1
+4,7,14.787,14.787,28.334,1,No,No,100,1,Neither A or B had any overlap to be combined,1
+4,7,20.489,22.889,23.964,3,No,No,80,0,,1
+4,7,17.621,17.621,20.698,1,No,No,100,1,One table is emotions an the other is fantasy creatures,1
+4,7,31.266,31.266,41.674,1,Yes,No,95,1,"Table B contains attributes to table A, those video-game like creatures.",0
+4,7,16.12,16.12,16.932,1,No,No,100,0,,1
+4,7,3.709,19.847,20.596,7,No,No,100,1,"Table A tracks specific mythological creatures and their actions, whereas Table B categorizes abstract emotions and philosophical beliefs. These datasets represent entirely different semantic domains, meaning they share no logical or functional overlap for a union.",1
+4,7,30.294,30.294,31.258,1,No,No,70,1,I didnt see a great comparisons of the different subjects in the table contents that i saw,1
+4,7,15.291,46.947,47.294,4,Yes,No,35,0,,0
+4,7,45.083,45.083,45.987,1,No,No,80,1,Attributes in the two tables belong to different conceptual domains and are not compatible in their meanings and roles and hence there are not enough overlaps to form a meaningful union.,1
+4,7,53.329,54.601,55.487,2,No,No,60,1,There is too much ambiguity for which rows could be mapped from table B to table A,1
+4,8,12.935,12.935,14.417,1,Yes,No,50,1,"Though not all of the things would have the same amount of filled in fields, they're related enough that you could reasonably merge the tables",0
+4,8,16.569,17.007,24.666,2,No,No,75,1,These tables don't seem to match up in content type or number of columns.,1
+4,8,18.721,53.729,54.475,2,No,No,100,1,There are some elements that would support a join but most would not,1
+4,8,51.659,51.659,52.564,1,No,No,100,1,All the entries have to do with language but they cannot be combined because some of devices - such as alliteration - and some are styles - such as lyric or free verse,1
+4,8,1.487,20.052,20.963,3,No,No,40,0,,1
+4,8,15.525,15.525,17.401,1,No,No,100,1,These 2 tables cannot be unioned because they must have a matching number of columns.,1
+4,8,68.811,96.138,134.676,2,No,No,65,1,"While these two have overlapped part, they use different structures and measurement factors to classify its contents. B is more about context while A is more technical. ",1
+4,8,20.816,20.816,22.029,1,No,No,33,0,,1
+4,8,3.761,23.772,24.428,7,No,No,90,1,"The tables differ in their column counts and thematic scope, with Table A focusing on specific poetic mechanics and Table B incorporating broader narrative techniques. This structural mismatch and semantic drift would prevent the resulting dataset from maintaining the consistency required for a professional database union.",1
+4,8,58.446,58.446,59.775,1,No,No,60,1,Im not sure if theyre demonstrating the same table of content based on the different subjects that are presented,1
+4,8,6.004,10.781,13.473,4,No,No,80,0,,1
+4,8,96.127,96.127,97.213,1,No,No,70,1,"The two tables though have the same area of subject matter, the columns are different in terms of attributes and they are organized in a different manner hence combining the two is contravening consistency in terms of structure and meaning.",1
+4,8,47.127,47.884,50.653,2,Yes,No,30,1,"Possibly, but I am not familiar enough with the domain to be certain.",0
